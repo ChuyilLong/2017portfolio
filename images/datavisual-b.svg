@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="310px" height="280px" viewBox="0 0 310 280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="70" height="34" rx="4"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <g id="datavisual">
+                <g id="Group-7">
+                    <g id="Page-1">
+                        <g id="landingPage-style-Copy-2">
+                            <g id="Group-7">
+                                <g id="Group-5-Copy-2" fill-rule="nonzero" fill="#393939">
+                                    <rect id="Rectangle-6" x="0" y="0" width="310" height="280"></rect>
+                                </g>
+                                <rect id="Rectangle-11" fill="#F8E81C" fill-rule="nonzero" x="211" y="0" width="15" height="147"></rect>
+                                <rect id="Rectangle-11-Copy" fill="#F8E81C" fill-rule="nonzero" x="236" y="0" width="15" height="147"></rect>
+                                <g id="Polygon" transform="translate(81.964738, 105.890560) rotate(22.500000) translate(-81.964738, -105.890560) translate(39.964738, 63.890560)">
+                                    <g id="path-1-link" fill-rule="nonzero" fill="#000000">
+                                        <polygon id="path-1" points="42.2574649 0.3001306 71.642357 12.4717515 83.813978 41.856644 71.642357 71.241536 42.2574649 83.413157 12.8725728 71.241536 0.7009519 41.856644 12.8725728 12.4717515"></polygon>
+                                    </g>
+                                    <g id="path-1-link" stroke-width="3" stroke="#FFFFFF" fill="#FF0000">
+                                        <polygon id="path-1" points="42.2574649 0.3001306 71.642357 12.4717515 83.813978 41.856644 71.642357 71.241536 42.2574649 83.413157 12.8725728 71.241536 0.7009519 41.856644 12.8725728 12.4717515"></polygon>
+                                    </g>
+                                </g>
+                                <g id="Line" transform="translate(86.000000, 147.000000)">
+                                    <g id="path-3-link" fill-rule="nonzero" fill="#000000">
+                                        <path d="M0.5,0.5 L0.5,81.5" id="path-3"></path>
+                                    </g>
+                                    <g id="path-3-link" stroke="#FFFFFF" stroke-width="3" stroke-linecap="square">
+                                        <path d="M0.5,0.5 L0.5,81.5" id="path-3"></path>
+                                    </g>
+                                </g>
+                                <g id="Rectangle-12" transform="translate(51.000000, 173.000000)">
+                                    <g id="path-5-link" fill-rule="nonzero" fill="#000000">
+                                        <rect id="path-5" x="0" y="0" width="70" height="34" rx="4"></rect>
+                                    </g>
+                                    <g id="path-5-link">
+                                        <g id="path-5-Clipped">
+                                            <mask id="mask-2" fill="white">
+                                                <use xlink:href="#path-1"></use>
+                                            </mask>
+                                            <g id="path-5"></g>
+                                            <rect id="path-5" stroke="#FFFFFF" stroke-width="6" fill="#F8E71C" mask="url(#mask-2)" x="0" y="0" width="70" height="34" rx="4"></rect>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g id="STOP" transform="translate(49.000000, 93.000000)" font-size="30" font-family="STHeitiSC-Medium, Heiti SC" fill="#FFFFFF" font-weight="bold">
+                                    <text>
+                                        <tspan x="0" y="26">STOP</tspan>
+                                    </text>
+                                </g>
+                                <g id="Rectangle-8" transform="translate(35.000000, 228.000000)">
+                                    <g id="path-8-link" fill-rule="nonzero" fill="#000000">
+                                        <rect id="path-8" x="0" y="0" width="242" height="11" rx="3"></rect>
+                                    </g>
+                                    <g id="path-8-link" fill="#D8D8D8">
+                                        <rect id="path-8" x="0" y="0" width="242" height="11" rx="3"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <rect id="Rectangle" fill="#000000" opacity="0.625679348" x="0" y="0" width="310" height="280"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="335px" height="209px" viewBox="0 0 335 209" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M44.9609208,32.173913 L44.9609208,110.589113 C44.9609208,110.589113 11.2699973,112.4633 8.98744495,88.3197905 C8.20475497,80.0409519 10.7142995,79.1230487 12.0440769,68.875674 C13.3738542,58.6282993 8.98744495,34.2055317 8.98744495,34.2055317 L44.9609208,32.173913 Z" id="path-2"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="4" dy="4" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M85.6216351,32.173913 L85.6216351,110.589113 C85.6216351,110.589113 51.9307116,112.4633 49.6481592,88.3197905 C48.8654693,80.0409519 51.3750138,79.1230487 52.7047911,68.875674 C54.0345684,58.6282993 49.6481592,34.2055317 49.6481592,34.2055317 L85.6216351,32.173913 Z" id="path-4"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-5">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="-4" dy="4" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M88.6318157,38.6001806 C94.2769122,38.3904599 98.779679,34.3331375 98.779679,29.3586957 C98.779679,24.2500617 94.0306994,20.1086957 88.1725361,20.1086957 C86.4301201,20.1086957 84.78583,20.4750695 83.3354402,21.1242969 C83.6072244,20.1636478 83.7528933,19.1481518 83.7528933,18.0978261 C83.7528933,12.1007341 79.0039137,7.23913043 73.1457504,7.23913043 C70.3488328,7.23913043 67.8047518,8.34732483 65.9096318,10.1581949 C64.904983,4.40091345 59.4249811,0 52.8153933,0 C47.9364406,0 43.6729817,2.3979896 41.3707296,5.96941136 C38.6492326,3.77279001 34.8809765,2.41304348 30.717179,2.41304348 C23.6371888,2.41304348 17.7008092,6.34441476 16.1095529,11.6366177 C14.4556347,11.2510535 12.6429862,11.2888266 10.8535071,11.8359253 C5.85163847,13.3651499 2.92489492,18.2945891 4.31644238,22.8461357 C4.78549274,24.3803303 5.68530338,25.6757623 6.863745,26.6605166 L5.74274401,26.8961659 C5.74274401,26.8961659 -1.28379757,28.6737432 0.207831898,33.336447 C1.69946136,37.9991508 13.8051394,35.4714249 13.8051394,35.4714249 C13.8051394,35.4714249 26.3985319,30.9995966 31.2333795,36.1713018 C31.8606155,36.8422391 32.3602788,37.4203834 32.7549134,37.9185189 C30.5776738,38.3972293 28.9493219,40.3250604 28.9493219,42.6304348 C28.9493219,45.295809 31.1259375,47.4565217 33.810929,47.4565217 C36.4959205,47.4565217 38.6725361,45.295809 38.6725361,42.6304348 C38.6725361,40.537417 37.3303548,38.7555921 35.4537899,38.0868558 C36.6378961,36.885994 38.2723933,35.7962423 40.2470339,35.9152301 C44.4609213,36.1691504 58.8608725,36.4547372 62.4202699,48.3051336 C62.168787,48.2758782 61.913355,48.2608696 61.654679,48.2608696 C57.7492368,48.2608696 54.5832504,51.6819981 54.5832504,55.9021739 C54.5832504,60.1223498 57.7492368,63.5434783 61.654679,63.5434783 C65.5601212,63.5434783 68.7261076,60.1223498 68.7261076,55.9021739 C68.7261076,52.9037737 67.1279222,50.3087315 64.8018394,49.0574703 C64.7984261,47.7153648 65.3008229,45.5941109 68.5111679,45.5941109 C72.8268543,45.5941109 88.4777968,44.4635836 88.6318157,38.6001806 Z" id="path-6"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-8">
+            <feMorphology radius="2.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="4" dy="4" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <text id="text-10" font-family="NanumPen, Nanum Pen Script" font-size="54" font-weight="normal" letter-spacing="0.0227586217" fill="#FFFFFF">
+            <tspan x="5.17192321" y="40.9090909">Silent Shield</tspan>
+        </text>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-12" x="0" y="0" width="335" height="209"></rect>
+        <mask id="mask-13" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="335" height="209" fill="white">
+            <use xlink:href="#path-12"></use>
+        </mask>
+        <rect id="path-14" x="0" y="0" width="335" height="20"></rect>
+        <mask id="mask-15" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="335" height="20" fill="white">
+            <use xlink:href="#path-14"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Silent" transform="translate(-236.000000, -155.000000)">
+            <g id="Group-2" transform="translate(236.000000, 155.000000)">
+                <circle id="Oval-2" fill="#102E58" cx="10" cy="10" r="3"></circle>
+                <circle id="Oval-2" fill="#102E58" cx="20" cy="10" r="3"></circle>
+                <circle id="Oval-2" fill="#102E58" cx="30" cy="10" r="3"></circle>
+                <g id="header-left" transform="translate(49.000000, 44.000000)">
+                    <g id="logo-whole">
+                        <g id="logo-new">
+                            <g id="Logo" filter="url(#filter-1)" transform="translate(0.000000, 9.963768)">
+                                <g id="logo" transform="translate(72.291498, 0.000000)">
+                                    <g>
+                                        <g id="Path-4-Copy-2">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                                            <use stroke="#FFFFFF" stroke-width="2" fill="#B82322" fill-rule="evenodd" xlink:href="#path-2"></use>
+                                        </g>
+                                        <g id="Path-4-Copy-3" transform="translate(67.560818, 71.398438) scale(-1, 1) translate(-67.560818, -71.398438) ">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                                            <use stroke="#FFFFFF" stroke-width="2" fill="#56AAC3" fill-rule="evenodd" xlink:href="#path-4"></use>
+                                        </g>
+                                        <mask id="mask-7" fill="white">
+                                            <use xlink:href="#path-6"></use>
+                                        </mask>
+                                        <g id="Mask">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-6"></use>
+                                            <use stroke="#FFFFFF" stroke-width="5" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-6"></use>
+                                        </g>
+                                        <g id="Group-3" mask="url(#mask-7)">
+                                            <g transform="translate(-8.839286, -30.565217)">
+                                                <g id="Group-2" transform="translate(124.097426, 57.144882) rotate(-270.000000) translate(-124.097426, -57.144882) translate(61.338498, -55.061640)">
+                                                    <g id="Group" transform="translate(-0.000000, -0.000000)">
+                                                        <rect id="Rectangle" fill-opacity="0.800000012" fill="#56AAC3" x="7.35291262" y="2.91476987e-13" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-6" fill-opacity="0.800000012" fill="#56AAC3" x="39.8282767" y="5.6580827e-13" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-3" fill-opacity="0.800000012" fill="#56AAC3" x="16.5440534" y="5.6580827e-13" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-7" fill-opacity="0.800000012" fill="#56AAC3" x="49.0194175" y="5.6580827e-13" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="6.04745377" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-4" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="35.1851856" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-2" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="13.7442131" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-5" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="42.8819449" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="9.89583344" width="63.4936691" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="15.9432872" width="63.4936691" height="0.747685193"></rect>
+                                                        <polyline id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" points="11.8597966 0 11.8597966 55.5373586 11.0293689 55.5373586 11.0293689 0"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="44.3351606 0 44.3351606 55.5373586 43.504733 55.5373586 43.504733 0"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="52.9135587 0 52.9135587 55.5373586 52.0831311 55.5373586 52.0831311 0"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" points="20.4381946 0 20.4381946 55.5373586 19.607767 55.5373586 19.607767 0"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" points="64.100428 28.2414802 0.606758903 28.2414802 0.606758903 27.493795 64.100428 27.493795"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" transform="translate(32.304586, 27.768679) rotate(-360.000000) translate(-32.304586, -27.768679) " points="32.693049 0 32.693049 55.5373586 31.8626214 55.5373586 31.8626214 0"></polyline>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="39.0335652" width="63.4936691" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="45.081019" width="63.4936691" height="0.747685193"></rect>
+                                                        <rect id="Rectangle" fill-opacity="0.800000012" fill="#56AAC3" x="7.35291262" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-6" fill-opacity="0.800000012" fill="#56AAC3" x="39.8282767" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-3" fill-opacity="0.800000012" fill="#56AAC3" x="16.5440534" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-7" fill-opacity="0.800000012" fill="#56AAC3" x="49.0194175" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="62.1238432" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-4" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="91.261575" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-2" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="69.8206026" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-5" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="98.9583344" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="65.9722229" width="63.4936691" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="72.0196767" width="63.4936691" height="0.747685193"></rect>
+                                                        <polyline id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" points="11.8597966 56.0763895 11.8597966 111.613748 11.0293689 111.613748 11.0293689 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="44.3351606 56.0763895 44.3351606 111.613748 43.504733 111.613748 43.504733 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="52.9135587 56.0763895 52.9135587 111.613748 52.0831311 111.613748 52.0831311 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" points="20.4381946 56.0763895 20.4381946 111.613748 19.607767 111.613748 19.607767 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" points="64.100428 84.3178697 0.606758903 84.3178697 0.606758903 83.5701845 64.100428 83.5701845"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" transform="translate(32.304586, 83.845069) rotate(-360.000000) translate(-32.304586, -83.845069) " points="32.693049 56.0763895 32.693049 111.613748 31.8626214 111.613748 31.8626214 56.0763895"></polyline>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="95.1099547" width="63.4936691" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="101.157408" width="63.4936691" height="0.747685193"></rect>
+                                                        <rect id="Rectangle" fill-opacity="0.800000012" fill="#56AAC3" x="70.4654126" y="0" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-6" fill-opacity="0.800000012" fill="#56AAC3" x="102.940777" y="0" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-3" fill-opacity="0.800000012" fill="#56AAC3" x="79.6565534" y="0" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-7" fill-opacity="0.800000012" fill="#56AAC3" x="112.131917" y="0" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="6.04745377" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-4" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="35.1851856" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-2" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="13.7442131" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-5" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="42.8819449" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="9.89583344" width="55.549236" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="15.9432872" width="55.549236" height="0.747685193"></rect>
+                                                        <polyline id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" points="74.9722966 0 74.9722966 55.5373586 74.1418689 55.5373586 74.1418689 0"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="107.447661 0 107.447661 55.5373586 106.617233 55.5373586 106.617233 0"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="116.026059 0 116.026059 55.5373586 115.195631 55.5373586 115.195631 0"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" points="83.5506946 0 83.5506946 55.5373586 82.720267 55.5373586 82.720267 0"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" transform="translate(94.668750, 27.879090) rotate(-270.000000) translate(-94.668750, -27.879090) " points="95.0572133 0.110411052 95.0572133 55.6477697 94.2267857 55.6477697 94.2267857 0.110411052"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" transform="translate(95.417086, 27.768679) rotate(-360.000000) translate(-95.417086, -27.768679) " points="95.805549 0 95.805549 55.5373586 94.9751214 55.5373586 94.9751214 0"></polyline>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="39.0335652" width="55.549236" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="45.081019" width="55.549236" height="0.747685193"></rect>
+                                                        <rect id="Rectangle" fill-opacity="0.800000012" fill="#56AAC3" x="70.4654126" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-6" fill-opacity="0.800000012" fill="#56AAC3" x="102.940777" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-3" fill-opacity="0.800000012" fill="#56AAC3" x="79.6565534" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-7" fill-opacity="0.800000012" fill="#56AAC3" x="112.131917" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="62.1238432" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-4" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="91.261575" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-2" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="69.8206026" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-5" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="98.9583344" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="65.9722229" width="55.549236" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="72.0196767" width="55.549236" height="0.747685193"></rect>
+                                                        <polyline id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" points="74.9722966 56.0763895 74.9722966 111.613748 74.1418689 111.613748 74.1418689 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="107.447661 56.0763895 107.447661 111.613748 106.617233 111.613748 106.617233 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="116.026059 56.0763895 116.026059 111.613748 115.195631 111.613748 115.195631 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" points="83.5506946 56.0763895 83.5506946 111.613748 82.720267 111.613748 82.720267 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" transform="translate(94.668750, 83.955480) rotate(-270.000000) translate(-94.668750, -83.955480) " points="95.0572133 56.1868005 95.0572133 111.724159 94.2267857 111.724159 94.2267857 56.1868005"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" transform="translate(95.417086, 83.845069) rotate(-360.000000) translate(-95.417086, -83.845069) " points="95.805549 56.0763895 95.805549 111.613748 94.9751214 111.613748 94.9751214 56.0763895"></polyline>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="95.1099547" width="55.549236" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="101.157408" width="55.549236" height="0.747685193"></rect>
+                                                    </g>
+                                                    <g id="Group-Copy" transform="translate(-0.000000, 112.152779)">
+                                                        <rect id="Rectangle" fill-opacity="0.800000012" fill="#56AAC3" x="7.35291262" y="0" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-6" fill-opacity="0.800000012" fill="#56AAC3" x="39.8282767" y="-1.14304701e-14" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-3" fill-opacity="0.800000012" fill="#56AAC3" x="16.5440534" y="0" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-7" fill-opacity="0.800000012" fill="#56AAC3" x="49.0194175" y="-1.14304701e-14" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="6.04745377" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-4" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="35.1851856" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-2" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="13.7442131" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-5" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="42.8819449" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="9.89583344" width="63.4936691" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="15.9432872" width="63.4936691" height="0.747685193"></rect>
+                                                        <polyline id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" points="11.8597966 0 11.8597966 55.5373586 11.0293689 55.5373586 11.0293689 0"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="44.3351606 0 44.3351606 55.5373586 43.504733 55.5373586 43.504733 0"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="52.9135587 0 52.9135587 55.5373586 52.0831311 55.5373586 52.0831311 0"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" points="20.4381946 0 20.4381946 55.5373586 19.607767 55.5373586 19.607767 0"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" points="64.100428 28.2414802 0.606758903 28.2414802 0.606758903 27.493795 64.100428 27.493795"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" transform="translate(32.304586, 27.768679) rotate(-360.000000) translate(-32.304586, -27.768679) " points="32.693049 0 32.693049 55.5373586 31.8626214 55.5373586 31.8626214 0"></polyline>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="39.0335652" width="63.4936691" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="45.081019" width="63.4936691" height="0.747685193"></rect>
+                                                        <rect id="Rectangle" fill-opacity="0.800000012" fill="#56AAC3" x="7.35291262" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-6" fill-opacity="0.800000012" fill="#56AAC3" x="39.8282767" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-3" fill-opacity="0.800000012" fill="#56AAC3" x="16.5440534" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-7" fill-opacity="0.800000012" fill="#56AAC3" x="49.0194175" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="62.1238432" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-4" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="91.261575" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-2" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="69.8206026" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-5" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="98.9583344" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="65.9722229" width="63.4936691" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="72.0196767" width="63.4936691" height="0.747685193"></rect>
+                                                        <polyline id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" points="11.8597966 56.0763895 11.8597966 111.613748 11.0293689 111.613748 11.0293689 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="44.3351606 56.0763895 44.3351606 111.613748 43.504733 111.613748 43.504733 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="52.9135587 56.0763895 52.9135587 111.613748 52.0831311 111.613748 52.0831311 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" points="20.4381946 56.0763895 20.4381946 111.613748 19.607767 111.613748 19.607767 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" points="64.100428 84.3178697 0.606758903 84.3178697 0.606758903 83.5701845 64.100428 83.5701845"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" transform="translate(32.304586, 83.845069) rotate(-360.000000) translate(-32.304586, -83.845069) " points="32.693049 56.0763895 32.693049 111.613748 31.8626214 111.613748 31.8626214 56.0763895"></polyline>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="95.1099547" width="63.4936691" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="101.157408" width="63.4936691" height="0.747685193"></rect>
+                                                        <rect id="Rectangle" fill-opacity="0.800000012" fill="#56AAC3" x="70.4654126" y="-2.28609402e-14" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-6" fill-opacity="0.800000012" fill="#56AAC3" x="102.940777" y="-2.28609402e-14" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-3" fill-opacity="0.800000012" fill="#56AAC3" x="79.6565534" y="-2.28609402e-14" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-7" fill-opacity="0.800000012" fill="#56AAC3" x="112.131917" y="-2.28609402e-14" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="6.04745377" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-4" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="35.1851856" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-2" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="13.7442131" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-5" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="42.8819449" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="9.89583344" width="55.549236" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="15.9432872" width="55.549236" height="0.747685193"></rect>
+                                                        <polyline id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" points="74.9722966 -2.28609402e-14 74.9722966 55.5373586 74.1418689 55.5373586 74.1418689 -2.28609402e-14"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="107.447661 -2.28609402e-14 107.447661 55.5373586 106.617233 55.5373586 106.617233 -2.28609402e-14"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="116.026059 -2.28609402e-14 116.026059 55.5373586 115.195631 55.5373586 115.195631 -2.28609402e-14"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" points="83.5506946 -2.28609402e-14 83.5506946 55.5373586 82.720267 55.5373586 82.720267 -2.28609402e-14"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" transform="translate(94.668750, 27.879090) rotate(-270.000000) translate(-94.668750, -27.879090) " points="95.0572133 0.110411052 95.0572133 55.6477697 94.2267857 55.6477697 94.2267857 0.110411052"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" transform="translate(95.417086, 27.768679) rotate(-360.000000) translate(-95.417086, -27.768679) " points="95.805549 -2.28609402e-14 95.805549 55.5373586 94.9751214 55.5373586 94.9751214 -2.28609402e-14"></polyline>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="39.0335652" width="55.549236" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="45.081019" width="55.549236" height="0.747685193"></rect>
+                                                        <rect id="Rectangle" fill-opacity="0.800000012" fill="#56AAC3" x="70.4654126" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-6" fill-opacity="0.800000012" fill="#56AAC3" x="102.940777" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-3" fill-opacity="0.800000012" fill="#56AAC3" x="79.6565534" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-7" fill-opacity="0.800000012" fill="#56AAC3" x="112.131917" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="62.1238432" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-4" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="91.261575" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-2" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="69.8206026" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-5" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="98.9583344" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="65.9722229" width="55.549236" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="72.0196767" width="55.549236" height="0.747685193"></rect>
+                                                        <polyline id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" points="74.9722966 56.0763895 74.9722966 111.613748 74.1418689 111.613748 74.1418689 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="107.447661 56.0763895 107.447661 111.613748 106.617233 111.613748 106.617233 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="116.026059 56.0763895 116.026059 111.613748 115.195631 111.613748 115.195631 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" points="83.5506946 56.0763895 83.5506946 111.613748 82.720267 111.613748 82.720267 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" transform="translate(94.668750, 83.955480) rotate(-270.000000) translate(-94.668750, -83.955480) " points="95.0572133 56.1868005 95.0572133 111.724159 94.2267857 111.724159 94.2267857 56.1868005"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" transform="translate(95.417086, 83.845069) rotate(-360.000000) translate(-95.417086, -83.845069) " points="95.805549 56.0763895 95.805549 111.613748 94.9751214 111.613748 94.9751214 56.0763895"></polyline>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="95.1099547" width="55.549236" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="101.157408" width="55.549236" height="0.747685193"></rect>
+                                                    </g>
+                                                </g>
+                                                <g id="Group-2-Copy" transform="translate(124.097426, 164.979347) rotate(-270.000000) translate(-124.097426, -164.979347) translate(61.338498, 52.772825)">
+                                                    <g id="Group" transform="translate(0.000000, -0.000000)">
+                                                        <rect id="Rectangle" fill-opacity="0.800000012" fill="#56AAC3" x="7.35291262" y="2.91476987e-13" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-6" fill-opacity="0.800000012" fill="#56AAC3" x="39.8282767" y="5.20086389e-13" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-3" fill-opacity="0.800000012" fill="#56AAC3" x="16.5440534" y="5.6580827e-13" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-7" fill-opacity="0.800000012" fill="#56AAC3" x="49.0194175" y="5.20086389e-13" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="6.04745377" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-4" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="35.1851856" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-2" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="13.7442131" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-5" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="42.8819449" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="9.89583344" width="63.4936691" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="15.9432872" width="63.4936691" height="0.747685193"></rect>
+                                                        <polyline id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" points="11.8597966 0 11.8597966 55.5373586 11.0293689 55.5373586 11.0293689 0"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="44.3351606 -4.57218804e-14 44.3351606 55.5373586 43.504733 55.5373586 43.504733 -4.57218804e-14"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="52.9135587 -4.57218804e-14 52.9135587 55.5373586 52.0831311 55.5373586 52.0831311 -4.57218804e-14"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" points="20.4381946 -4.57218804e-14 20.4381946 55.5373586 19.607767 55.5373586 19.607767 -4.57218804e-14"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" points="64.100428 28.2414802 0.606758903 28.2414802 0.606758903 27.493795 64.100428 27.493795"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" transform="translate(32.304586, 27.768679) rotate(-360.000000) translate(-32.304586, -27.768679) " points="32.693049 -4.57218804e-14 32.693049 55.5373586 31.8626214 55.5373586 31.8626214 -4.57218804e-14"></polyline>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="39.0335652" width="63.4936691" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="45.081019" width="63.4936691" height="0.747685193"></rect>
+                                                        <rect id="Rectangle" fill-opacity="0.800000012" fill="#56AAC3" x="7.35291262" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-6" fill-opacity="0.800000012" fill="#56AAC3" x="39.8282767" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-3" fill-opacity="0.800000012" fill="#56AAC3" x="16.5440534" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-7" fill-opacity="0.800000012" fill="#56AAC3" x="49.0194175" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="62.1238432" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-4" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="91.261575" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-2" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="69.8206026" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-5" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="98.9583344" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="65.9722229" width="63.4936691" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="72.0196767" width="63.4936691" height="0.747685193"></rect>
+                                                        <polyline id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" points="11.8597966 56.0763895 11.8597966 111.613748 11.0293689 111.613748 11.0293689 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="44.3351606 56.0763895 44.3351606 111.613748 43.504733 111.613748 43.504733 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="52.9135587 56.0763895 52.9135587 111.613748 52.0831311 111.613748 52.0831311 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" points="20.4381946 56.0763895 20.4381946 111.613748 19.607767 111.613748 19.607767 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" points="64.100428 84.3178697 0.606758903 84.3178697 0.606758903 83.5701845 64.100428 83.5701845"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" transform="translate(32.304586, 83.845069) rotate(-360.000000) translate(-32.304586, -83.845069) " points="32.693049 56.0763895 32.693049 111.613748 31.8626214 111.613748 31.8626214 56.0763895"></polyline>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="95.1099547" width="63.4936691" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="101.157408" width="63.4936691" height="0.747685193"></rect>
+                                                        <rect id="Rectangle" fill-opacity="0.800000012" fill="#56AAC3" x="70.4654126" y="-4.57218804e-14" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-6" fill-opacity="0.800000012" fill="#56AAC3" x="102.940777" y="-4.57218804e-14" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-3" fill-opacity="0.800000012" fill="#56AAC3" x="79.6565534" y="-4.57218804e-14" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-7" fill-opacity="0.800000012" fill="#56AAC3" x="112.131917" y="-4.57218804e-14" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="6.04745377" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-4" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="35.1851856" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-2" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="13.7442131" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-5" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="42.8819449" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="9.89583344" width="55.549236" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="15.9432872" width="55.549236" height="0.747685193"></rect>
+                                                        <polyline id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" points="74.9722966 -4.57218804e-14 74.9722966 55.5373586 74.1418689 55.5373586 74.1418689 -4.57218804e-14"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="107.447661 -4.57218804e-14 107.447661 55.5373586 106.617233 55.5373586 106.617233 -4.57218804e-14"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="116.026059 -4.57218804e-14 116.026059 55.5373586 115.195631 55.5373586 115.195631 -4.57218804e-14"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" points="83.5506946 -4.57218804e-14 83.5506946 55.5373586 82.720267 55.5373586 82.720267 -4.57218804e-14"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" transform="translate(94.668750, 27.879090) rotate(-270.000000) translate(-94.668750, -27.879090) " points="95.0572133 0.110411052 95.0572133 55.6477697 94.2267857 55.6477697 94.2267857 0.110411052"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" transform="translate(95.417086, 27.768679) rotate(-360.000000) translate(-95.417086, -27.768679) " points="95.805549 -4.57218804e-14 95.805549 55.5373586 94.9751214 55.5373586 94.9751214 -4.57218804e-14"></polyline>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="39.0335652" width="55.549236" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="45.081019" width="55.549236" height="0.747685193"></rect>
+                                                        <rect id="Rectangle" fill-opacity="0.800000012" fill="#56AAC3" x="70.4654126" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-6" fill-opacity="0.800000012" fill="#56AAC3" x="102.940777" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-3" fill-opacity="0.800000012" fill="#56AAC3" x="79.6565534" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-7" fill-opacity="0.800000012" fill="#56AAC3" x="112.131917" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="62.1238432" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-4" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="91.261575" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-2" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="69.8206026" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-5" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="98.9583344" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="65.9722229" width="55.549236" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="72.0196767" width="55.549236" height="0.747685193"></rect>
+                                                        <polyline id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" points="74.9722966 56.0763895 74.9722966 111.613748 74.1418689 111.613748 74.1418689 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="107.447661 56.0763895 107.447661 111.613748 106.617233 111.613748 106.617233 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="116.026059 56.0763895 116.026059 111.613748 115.195631 111.613748 115.195631 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" points="83.5506946 56.0763895 83.5506946 111.613748 82.720267 111.613748 82.720267 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" transform="translate(94.668750, 83.955480) rotate(-270.000000) translate(-94.668750, -83.955480) " points="95.0572133 56.1868005 95.0572133 111.724159 94.2267857 111.724159 94.2267857 56.1868005"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" transform="translate(95.417086, 83.845069) rotate(-360.000000) translate(-95.417086, -83.845069) " points="95.805549 56.0763895 95.805549 111.613748 94.9751214 111.613748 94.9751214 56.0763895"></polyline>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="95.1099547" width="55.549236" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="101.157408" width="55.549236" height="0.747685193"></rect>
+                                                    </g>
+                                                    <g id="Group-Copy" transform="translate(-0.000000, 112.152779)">
+                                                        <rect id="Rectangle" fill-opacity="0.800000012" fill="#56AAC3" x="7.35291262" y="0" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-6" fill-opacity="0.800000012" fill="#56AAC3" x="39.8282767" y="0" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-3" fill-opacity="0.800000012" fill="#56AAC3" x="16.5440534" y="0" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-7" fill-opacity="0.800000012" fill="#56AAC3" x="49.0194175" y="0" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="6.04745377" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-4" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="35.1851856" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-2" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="13.7442131" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-5" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="42.8819449" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="9.89583344" width="63.4936691" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="15.9432872" width="63.4936691" height="0.747685193"></rect>
+                                                        <polyline id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" points="11.8597966 0 11.8597966 55.5373586 11.0293689 55.5373586 11.0293689 0"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="44.3351606 0 44.3351606 55.5373586 43.504733 55.5373586 43.504733 0"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="52.9135587 0 52.9135587 55.5373586 52.0831311 55.5373586 52.0831311 0"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" points="20.4381946 0 20.4381946 55.5373586 19.607767 55.5373586 19.607767 0"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" points="64.100428 28.2414802 0.606758903 28.2414802 0.606758903 27.493795 64.100428 27.493795"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" transform="translate(32.304586, 27.768679) rotate(-360.000000) translate(-32.304586, -27.768679) " points="32.693049 0 32.693049 55.5373586 31.8626214 55.5373586 31.8626214 0"></polyline>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="39.0335652" width="63.4936691" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="45.081019" width="63.4936691" height="0.747685193"></rect>
+                                                        <rect id="Rectangle" fill-opacity="0.800000012" fill="#56AAC3" x="7.35291262" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-6" fill-opacity="0.800000012" fill="#56AAC3" x="39.8282767" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-3" fill-opacity="0.800000012" fill="#56AAC3" x="16.5440534" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-7" fill-opacity="0.800000012" fill="#56AAC3" x="49.0194175" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="62.1238432" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-4" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="91.261575" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-2" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="69.8206026" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-5" fill-opacity="0.599999964" fill="#B82322" x="3.7555401" y="98.9583344" width="63.4936691" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="65.9722229" width="63.4936691" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="72.0196767" width="63.4936691" height="0.747685193"></rect>
+                                                        <polyline id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" points="11.8597966 56.0763895 11.8597966 111.613748 11.0293689 111.613748 11.0293689 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="44.3351606 56.0763895 44.3351606 111.613748 43.504733 111.613748 43.504733 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="52.9135587 56.0763895 52.9135587 111.613748 52.0831311 111.613748 52.0831311 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" points="20.4381946 56.0763895 20.4381946 111.613748 19.607767 111.613748 19.607767 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" points="64.100428 84.3178697 0.606758903 84.3178697 0.606758903 83.5701845 64.100428 83.5701845"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" transform="translate(32.304586, 83.845069) rotate(-360.000000) translate(-32.304586, -83.845069) " points="32.693049 56.0763895 32.693049 111.613748 31.8626214 111.613748 31.8626214 56.0763895"></polyline>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="95.1099547" width="63.4936691" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="3.7555401" y="101.157408" width="63.4936691" height="0.747685193"></rect>
+                                                        <rect id="Rectangle" fill-opacity="0.800000012" fill="#56AAC3" x="70.4654126" y="0" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-6" fill-opacity="0.800000012" fill="#56AAC3" x="102.940777" y="-2.28609402e-14" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-3" fill-opacity="0.800000012" fill="#56AAC3" x="79.6565534" y="0" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-7" fill-opacity="0.800000012" fill="#56AAC3" x="112.131917" y="-2.28609402e-14" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="6.04745377" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-4" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="35.1851856" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-2" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="13.7442131" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-5" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="42.8819449" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="9.89583344" width="55.549236" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="15.9432872" width="55.549236" height="0.747685193"></rect>
+                                                        <polyline id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" points="74.9722966 0 74.9722966 55.5373586 74.1418689 55.5373586 74.1418689 0"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="107.447661 -2.28609402e-14 107.447661 55.5373586 106.617233 55.5373586 106.617233 -2.28609402e-14"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="116.026059 -2.28609402e-14 116.026059 55.5373586 115.195631 55.5373586 115.195631 -2.28609402e-14"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" points="83.5506946 0 83.5506946 55.5373586 82.720267 55.5373586 82.720267 0"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" transform="translate(94.668750, 27.879090) rotate(-270.000000) translate(-94.668750, -27.879090) " points="95.0572133 0.110411052 95.0572133 55.6477697 94.2267857 55.6477697 94.2267857 0.110411052"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" transform="translate(95.417086, 27.768679) rotate(-360.000000) translate(-95.417086, -27.768679) " points="95.805549 -2.28609402e-14 95.805549 55.5373586 94.9751214 55.5373586 94.9751214 -2.28609402e-14"></polyline>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="39.0335652" width="55.549236" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="45.081019" width="55.549236" height="0.747685193"></rect>
+                                                        <rect id="Rectangle" fill-opacity="0.800000012" fill="#56AAC3" x="70.4654126" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-6" fill-opacity="0.800000012" fill="#56AAC3" x="102.940777" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-3" fill-opacity="0.800000012" fill="#56AAC3" x="79.6565534" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy-7" fill-opacity="0.800000012" fill="#56AAC3" x="112.131917" y="56.0763895" width="7.35291262" height="55.5373586"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="62.1238432" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-4" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="91.261575" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-2" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="69.8206026" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy-5" fill-opacity="0.599999964" fill="#B82322" x="66.7889563" y="98.9583344" width="55.549236" height="6.59722229"></rect>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="65.9722229" width="55.549236" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="72.0196767" width="55.549236" height="0.747685193"></rect>
+                                                        <polyline id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" points="74.9722966 56.0763895 74.9722966 111.613748 74.1418689 111.613748 74.1418689 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="107.447661 56.0763895 107.447661 111.613748 106.617233 111.613748 106.617233 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-9" fill-opacity="0.599999964" fill="#FFFFFF" points="116.026059 56.0763895 116.026059 111.613748 115.195631 111.613748 115.195631 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" points="83.5506946 56.0763895 83.5506946 111.613748 82.720267 111.613748 82.720267 56.0763895"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" transform="translate(94.668750, 83.955480) rotate(-270.000000) translate(-94.668750, -83.955480) " points="95.0572133 56.1868005 95.0572133 111.724159 94.2267857 111.724159 94.2267857 56.1868005"></polyline>
+                                                        <polyline id="Rectangle-Copy-8" fill="#45474B" transform="translate(95.417086, 83.845069) rotate(-360.000000) translate(-95.417086, -83.845069) " points="95.805549 56.0763895 95.805549 111.613748 94.9751214 111.613748 94.9751214 56.0763895"></polyline>
+                                                        <rect id="Rectangle-Copy" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="95.1099547" width="55.549236" height="0.747685193"></rect>
+                                                        <rect id="Rectangle-Copy-8" fill-opacity="0.599999964" fill="#FFFFFF" x="66.7889563" y="101.157408" width="55.549236" height="0.747685193"></rect>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g id="Group-3" filter="url(#filter-9)" transform="translate(0.000000, 61.594203)" stroke="#FFFFFF">
+                                    <g id="logo-font">
+                                        <g id="Silent-Shield">
+                                            <use fill="#FFFFFF" fill-opacity="1" stroke-opacity="1" filter="url(#filter-11)" xlink:href="#text-10"></use>
+                                            <use fill="#FFFFFF" fill-opacity="1" stroke-opacity="1" xlink:href="#text-10"></use>
+                                            <use xlink:href="#text-10"></use>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <use id="Rectangle-10" stroke="#102E58" mask="url(#mask-13)" stroke-width="4" xlink:href="#path-12"></use>
+                <use id="Rectangle-10" stroke="#102E58" mask="url(#mask-15)" stroke-width="4" xlink:href="#path-14"></use>
+            </g>
+        </g>
+    </g>
+</svg>

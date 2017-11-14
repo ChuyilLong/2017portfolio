@@ -1,0 +1,667 @@
+body{
+	width: 100%;
+	float: left;
+	margin: 0;
+}
+.container{
+	width: 1024px;
+	margin: 0 auto;
+	background-color: #EEE;
+}
+header{
+	float: left;
+	width: 100%;
+	color: #FFF;
+	background-color: #AF7676;
+	height: 50px;
+}
+
+.header-container{
+	width: 1024px;
+	margin: 0 auto;
+}
+header h1{
+	float: right;
+	text-align: center;
+	font-family: helvetica;
+	font-size: 20px;
+	font-weight: lighter;
+	width: 100px;
+	padding: 0;
+	margin: 0;
+	
+}
+header h2{
+	float: right;
+	text-align: center;
+	font-family: helvetica;
+	font-size: 20px;
+	font-weight: lighter;
+	width: 75px;
+	padding: 0;
+	margin: 0;
+	margin-right: 40px;
+}
+header h3{
+	float: right;
+	text-align: center;
+	font-family: helvetica;
+	font-size: 20px;
+	font-weight: lighter;
+	width: 65px;
+	padding: 0;
+	margin: 0;
+	margin-right: 40px;
+}
+header h1:hover{
+	font-weight: normal;
+	border-bottom: solid 3px #FF8D8D;
+}
+header h2:hover{
+	font-weight: normal;
+	border-bottom: solid 3px #FF8D8D;
+}
+header h3:hover{
+	font-weight: normal;
+	border-bottom: solid 3px #FF8D8D;
+}
+.header-right a{
+	text-decoration: none;
+	color: #FFF;
+}
+.header-left{
+	float: left;
+	width: 10%;
+}
+.header-right{
+	float: right;
+	width: 50%;
+	margin-top: 15px;
+}
+
+.work-item {
+    float: left;
+    color: #AF7676;
+    width: 290px;
+    margin-left: 70px;
+    margin-top: 12px;
+    opacity: 0.1;
+}
+.header-right h3:hover.work-item{
+	opacity: 1;
+}
+
+.work-item h4 {
+    float: left;
+    background-color: #FFF;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    font-family: helvetica;
+    border: 2px solid #AF7676;
+    border-top: 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0;
+    font-weight: lighter;
+}
+.work-item h4:hover{
+	background-color: #AF7676;
+	color: #fff;
+}
+.home{
+	float: left;
+	width: 100%;
+	margin-top: 60px;
+}
+.home-left {
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    margin-top: 40px;
+}
+.home-left img {
+	width: 100%;
+}
+.home-right{
+	float: right;
+	width: 50%;
+	margin-right: 5%;
+	margin-top: 240px;
+	color: #AF7676;
+
+}
+.home-right h2{
+	margin-left: 20px;
+	font-size: 18px;
+	font-weight: lighter;
+	font-family: helvetica;
+}
+.resume {
+    width: 100%;
+    float: left;
+    margin-top: 40px;
+    margin-bottom: 70px;
+}
+.resume h3{
+	text-align: center;
+	width: 140px;
+	float: none;
+	margin: 0 auto;
+	color: #AF7676;
+	font-family: helvetica;
+	font-size: 20px;
+	border:solid 2px #AF7676;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+.resume h3:hover{
+	color: #fff;
+	background-color: #AF7676;
+}
+.resume a{
+	text-decoration: none;
+}
+.work{
+	float: left;
+	width: 100%;
+	border-top: solid 1px #AF7676;
+	margin-bottom: 50px;
+}
+.work-id{
+	float: left;
+}
+.head-w {
+    float: left;
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.head-w h2{
+	text-align: center;
+	color: #AF7676;
+	font-family: helvetica;
+	font-size: 20px;
+	font-weight: lighter;
+}
+
+.beer{
+	float: left;
+	width: 310px;
+	height: 280px;
+	background-image: url(images/beer.svg);
+	box-shadow: 2px 2px 4px #CCCCCC;
+	margin: 15px;
+}
+.animal{
+	float: left;
+	width: 310px;
+	height: 280px;
+	background-image: url(images/star.svg);
+	box-shadow: 2px 2px 4px #CCCCCC;
+	margin: 15px;
+}
+.datavis{
+	float: left;
+	width: 310px;
+	height: 280px;
+	background-image: url(images/datavisual.svg);
+	box-shadow: 2px 2px 4px #CCCCCC;
+	margin: 15px;
+}
+.work h3{
+	float: left;
+	width: 100%;
+	font-size: 30px;
+	color: #FFF;
+	font-family: helvetica;
+	font-weight: lighter;
+	text-align: center;
+	text-shadow:4px 4px 6px #000;
+	margin-top: 120px;
+}
+
+.work h4{
+	float: left;
+	width: 100%;
+	font-size: 30px;
+	color: #FFF;
+	font-family: helvetica;
+	font-weight: lighter;
+	text-align: center;
+	text-shadow:4px 4px 6px #000;
+	margin: 0;
+	padding: 0;
+	margin-top: 75px;
+	display: none;
+}
+.work h5{
+	float: left;
+	width: 100%;
+	font-size: 30px;
+	color: #FFF;
+	font-family: helvetica;
+	font-weight: lighter;
+	text-align: center;
+	text-shadow:4px 4px 6px #000;
+	margin: 0;
+	padding: 0;
+	margin-top: 10px;
+	display: none;
+}
+.work h6{
+	float: left;
+	width: 100%;
+	font-size: 30px;
+	color: #FFF;
+	font-family: helvetica;
+	font-weight: lighter;
+	text-align: center;
+	text-shadow:4px 4px 6px #000;
+	margin: 0;
+	padding: 0;
+	margin-top: 10px;
+	display: none;
+}
+.beer:hover.beer h3{
+	display: none;
+}
+.beer:hover.beer h4{
+	display: block;
+}
+.beer:hover.beer h5{
+	display: block;
+}
+.beer:hover.beer h6{
+	display: block;
+}
+.beer:hover{
+	background: url(images/beer-b.svg);
+	box-shadow: none;
+}   /*beerhover*/
+.animal:hover.animal h3{
+	display: none;
+}
+.animal:hover.animal h4{
+	display: block;
+}
+.animal:hover.animal h5{
+	display: block;
+}
+.animal:hover.animal h6{
+	display: block;
+}
+.animal:hover{
+	background: url(images/star-b.svg);
+	box-shadow: none;
+}
+.datavis h3{
+	margin-left: 50px;
+    margin-top: 140px;
+}
+.datavis:hover.datavis h3{
+	display: none;
+}
+.datavis:hover.datavis h4{
+	display: block;
+}
+.datavis:hover.datavis h5{
+	display: block;
+}
+.datavis:hover.datavis h6{
+	display: block;
+}
+.datavis:hover{
+	background: url(images/datavisual-b.svg);
+	box-shadow: none;
+}  
+
+.about{
+	float: left;
+	width: 100%;
+	border-top: solid 1px #AF7676;
+	margin-bottom: 45px;
+}
+.about-id{
+	float: left;
+}
+
+.head-a {
+    float: left;
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.head-a h2{
+	text-align: center;
+	color: #AF7676;
+	font-family: helvetica;
+	font-size: 20px;
+	font-weight: lighter;
+}
+.about h3{
+	color: #AF7676;
+	font-size: 16px;
+	font-weight: lighter;
+	font-family: helvetica;
+}
+.contact{
+	float: left;
+	width: 100%;
+	border-top: solid 1px #AF7676;
+}
+.contact-id{
+	float: left;
+}
+
+.head-c {
+    float: left;
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.head-c h2{
+	text-align: center;
+	color: #AF7676;
+	font-family: helvetica;
+	font-size: 20px;
+	font-weight: lighter;
+}
+.contact-left {
+    float: left;
+    width: 35%;
+    margin-left: 15%;
+}
+.contact-left h3 {
+    color: #AF7676;
+    font-weight: lighter;
+    font-size: 16px;
+    font-family: helvetica;
+    line-height: 23px;
+    margin: 10px;
+    margin-right: 60px;
+    margin-left: 0;
+}
+.contact-right {
+    float: right;
+    width: 35%;
+    margin-right: 15%;
+    margin-top: 10px;
+}
+.contact-right h4 {
+    float: left;
+    width: 20%;
+    margin: 0;
+    margin-top: 8px;
+    font-weight: lighter;
+    font-family: helvetica;
+    color: #AF7676;
+    font-size: 16px;
+}
+.contact-right input {
+    float: right;
+    width: 78%;
+    height: 25px;
+    border: navajowhite;
+    color: #AF7676;
+    font-size: 16px;
+    font-family: helvetica;
+}
+.name {
+    float: left;
+    width: 100%;
+    border-bottom: solid 2px#AF7676;
+    margin-bottom: 20px;
+}
+
+.email{
+	float: left;
+	width: 100%;
+	border-bottom: solid 2px#AF7676;
+}
+
+.drop{
+	float: left;
+	width: 100%;
+}
+.drop-container {
+    width: 70%;
+    margin: 0 auto;
+    float: none;
+}
+.drop-border {
+    border-bottom: solid 2px#AF7676;
+    float: left;
+    width: 100%;
+}
+.drop textarea {
+    float: right;
+    width: 78%;
+    height: 25px;
+    color: #AF7676;
+    font-size: 16px;
+    font-family: helvetica;
+    height: 60px;
+    border:none;
+}
+.drop h4 {
+    float: left;
+    width: 20%;
+    margin: 0;
+    margin-top: 50px;
+    font-weight: lighter;
+    font-family: helvetica;
+    color: #AF7676;
+    font-size: 16px;
+}
+.send {
+    width: 100%;
+    float: left;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.send h3{
+	text-align: center;
+	width: 180px;
+	float: none;
+	margin: 0 auto;
+	color: #AF7676;
+	font-family: helvetica;
+	font-size: 16px;
+	border:solid 2px #AF7676;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: lighter;
+
+}
+.send h3:hover{
+	color: #fff;
+	background-color: #AF7676;
+}
+.send a{
+	text-decoration: none;
+}
+.information{
+	float: left;
+	width: 100%;
+	font-size: 16px;
+	font-weight: lighter;
+	font-family: helvetica;
+
+}
+.information a{
+	text-decoration: none;
+
+}
+.info-con {
+    width: 56%;
+    margin: 0 auto;
+}
+.info-con a{
+	color:  #AF7676;
+	margin: 10px;
+}
+.social{
+	float: left;
+	width: 100%;
+	font-size: 16px;
+	font-weight: lighter;
+	font-family: helvetica;
+	margin-top: 50px;
+
+}
+.social a{
+	text-decoration: none;
+
+}
+.social-con {
+    width: 31%;
+    margin: 0 auto;
+}
+.social-con img {
+    height: 27px; 
+}
+.social-con img:hover {
+    opacity: 0.7;
+}
+.social-con a{
+	color:  #AF7676;
+	margin: 40px;
+}
+.code{
+	float: left;
+	width: 100%;
+	margin-top: 50px;
+	background-color: #AF7676;
+}
+.code h4{
+	font-size: 12px;
+	color: #FFF;
+	font-family: helvetica;
+	text-align: center;
+	font-weight: lighter;
+}
+/*index*/
+.header-beer{
+	background-color: #102E58;
+	width: 100%;
+	float: left;
+	height: 50px;
+}
+.code-beer{
+	float: left;
+	width: 100%;
+	background-color: #102E58;
+}
+.beer-project{
+	float: left;
+	width: 100%;
+	font-family: helvetica;
+	color: #102E58;
+}
+
+.beer-discription {
+    margin: 0 auto;
+    width: 1000px;
+    padding-top: 70px;
+    padding-bottom: 300px;
+}
+.beer-dis-left{
+	float: left;
+	width: 35%;
+}
+.beer-dis-left img{
+	float: left;
+	width: 100%;
+	margin-top: 5px;
+}
+.beer-dis-right{
+	float: right;
+	width: 60%;
+	margin-left: 5%;
+	
+	text-align: left;
+
+}
+.beer-dis-right h2{
+	padding-bottom: 10px;
+    margin-top: 20px;
+}
+.beer-dis-right h3{
+	margin-top: 15px;
+	margin-right: 30px;
+}
+
+.beer-project h2{
+	font-size: 20px;
+	font-weight: lighter;
+
+}
+.beer-project p{
+	font-size: 18px;
+	font-weight: lighter;
+}
+.beer-project h3{
+	float: left;
+	font-size: 20px;
+	font-weight: lighter;
+}
+.beer-challenge {
+    float: left;
+    width: 100%;
+    background-color: #E9ECF0;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.beer-challenge h2{
+	padding-bottom: 30px;
+}
+.beer-interview{
+	float: left;
+	width: 100%;
+	text-align: center;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.beer-interview h2{
+	padding-bottom: 30px;
+}
+.beer-interview p{
+	margin: 0 auto;
+	width: 478px;
+	text-align: left;
+	padding-bottom: 15px;
+
+}
+.beer-persona{
+	text-align: center;
+	background-color: #E9ECF0;
+	float: left;
+	width: 100%;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.beer-persona-con{
+	margin: 0 auto;
+	width: 90%;
+	padding-top: 40px;
+}
+.beer-persona img {
+    float: left;
+    width: 31%;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-bottom: 30px;
+}
+/*silentshield*/
+
+
+
+
+
+

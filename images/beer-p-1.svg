@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="427px" height="411px" viewBox="0 0 427 411" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="427" height="411" rx="10"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="427" height="411" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Silent" transform="translate(-51.000000, -1268.000000)">
+            <g id="Group-3" transform="translate(51.000000, 1268.000000)">
+                <text id="He-is-not-very-sure" font-family="Helvetica-Light, Helvetica" font-size="18" font-weight="300" letter-spacing="-0.310000002" fill="#17345D">
+                    <tspan x="19" y="262">He is not very sure to buy which kind of beers, </tspan>
+                    <tspan x="19" y="284">course he doesn’t know what his friends’ </tspan>
+                    <tspan x="19" y="306">preference, and he need to reserve seat for </tspan>
+                    <tspan x="19" y="328">around 10 people. He want this place is not very </tspan>
+                    <tspan x="19" y="350">far, because after party they might get drunk. He is </tspan>
+                    <tspan x="19" y="372">afraid that there is no one can drive the car after </tspan>
+                    <tspan x="19" y="394">party.</tspan>
+                </text>
+                <use id="Rectangle-2" stroke="#102E58" mask="url(#mask-2)" stroke-width="4" xlink:href="#path-1"></use>
+                <text id="Name" font-family="Helvetica-Light, Helvetica" font-size="18" font-weight="300" letter-spacing="-0.310000002" fill="#17345D">
+                    <tspan x="19" y="32">Name</tspan>
+                </text>
+                <text id="Age" font-family="Helvetica-Light, Helvetica" font-size="18" font-weight="300" letter-spacing="-0.310000002" fill="#17345D">
+                    <tspan x="162" y="32">Age</tspan>
+                </text>
+                <text id="Occupation" font-family="Helvetica-Light, Helvetica" font-size="18" font-weight="300" letter-spacing="-0.310000002" fill="#17345D">
+                    <tspan x="306" y="32">Occupation</tspan>
+                </text>
+                <text id="23" font-family="Helvetica-Light, Helvetica" font-size="18" font-weight="300" letter-spacing="-0.310000002" fill="#17345D">
+                    <tspan x="162" y="69">23</tspan>
+                </text>
+                <text id="Student" font-family="Helvetica-Light, Helvetica" font-size="18" font-weight="300" letter-spacing="-0.310000002" fill="#17345D">
+                    <tspan x="306" y="69">Student</tspan>
+                </text>
+                <text id="Peter" font-family="Helvetica-Light, Helvetica" font-size="18" font-weight="300" letter-spacing="-0.310000002" fill="#17345D">
+                    <tspan x="19" y="69">Peter</tspan>
+                </text>
+                <text id="Goal" font-family="Helvetica-Light, Helvetica" font-size="18" font-weight="300" letter-spacing="-0.310000002" fill="#17345D">
+                    <tspan x="19" y="112">Goal</tspan>
+                </text>
+                <text id="Problem" font-family="Helvetica-Light, Helvetica" font-size="18" font-weight="300" letter-spacing="-0.310000002" fill="#17345D">
+                    <tspan x="19" y="230">Problem</tspan>
+                </text>
+                <text id="Going-to-hold-a-part" font-family="Helvetica-Light, Helvetica" font-size="18" font-weight="300" letter-spacing="-0.310000002" fill="#17345D">
+                    <tspan x="19" y="144">Going to hold a party for his 24 years old birthday.</tspan>
+                </text>
+                <text id="Peter-is-a-graduate" font-family="Helvetica-Light, Helvetica" font-size="18" font-weight="300" letter-spacing="-0.310000002" fill="#17345D">
+                    <tspan x="19" y="176">Peter is a graduate student. He wants to have </tspan>
+                    <tspan x="19" y="198">dinner with his friends first and then held a party. </tspan>
+                </text>
+                <path d="M17.5,79 L411.602778,79" id="Line" stroke="#102E58" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M17.5,207 L411.602778,207" id="Line-Copy" stroke="#102E58" stroke-width="2" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>
