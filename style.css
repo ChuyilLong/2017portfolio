@@ -968,4 +968,88 @@ header h3:hover{
 .traffic-draftstory h4:hover{
 	text-decoration: underline;
 }
+.traffic-wireframe{
+	float: left;
+	width: 100%;
+	background-color: #464646;
+	padding-top: 70px;
+	padding-bottom: 70px;
+	text-align: center;
+}
+.traffic-wireframe h2{
+	padding-bottom: 10px;
+}
+.traffic-wireframe h4:hover{
+	text-decoration: underline;
+}
+.traffic-vis-1{
+	float: left;
+	width: 100%;
+	background-color: #323232;
+	padding-top: 70px;
+	padding-bottom: 70px;
+	text-align: center;
+}
+.traffic-validation{
+	float: left;
+	width: 100%;
+	background-color: #464646;
+	padding-top: 70px;
+	padding-bottom: 70px;
+	text-align: center;
+}
+.traffic-validation h2{
+	padding-bottom: 10px;
+}
+.traffic-validation p{
+	text-align: left;
+	width: 700px;
+	margin: 0 auto;
+	line-height: 30px;
+	color: #fff;
+	font-weight: lighter;
+}
+.traffic-next h2{
+	padding-bottom: 10px;
+}
+.traffic-next{
+	float: left;
+	width: 100%;
+	background-color: #323232;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.traffic-next p{
+
+	width: 700px;
+	margin: 0 auto;
+	line-height: 30px;
+	color: #fff;
+	font-weight: lighter;
+}
+.traffic-improve{
+	float: left;
+	width: 100%;
+	background-color: #464646;
+	padding-top: 70px;
+	padding-bottom: 70px;
+	text-align: center;
+}
+.traffic-improve h2{
+	padding-bottom: 10px;
+}
+.traffic-improve img{
+	width: 631px;
+}
+.traffic-thanks{
+	float: left;
+	width: 100%;
+	background-color: #323232;
+	padding-top: 70px;
+	padding-bottom: 70px;
+	text-align: center;
+}
+.traffic-thanks h2{
+	padding-bottom: 0;
+}
 /*traffic*/

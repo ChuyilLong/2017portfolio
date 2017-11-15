@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="873px" viewBox="0 0 1024 873" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #323232;">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>15 copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0.321244421" width="8" height="14.6800003" rx="1"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="8" height="14.6800003" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="497" y="437" width="52" height="57" rx="11"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="52" height="57" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="0" y="0.642488843" width="16" height="29.3600006" rx="1"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="16" height="29.3600006" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="0" y="0" width="1024" height="873"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="1024" height="873" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="15-copy">
+            <text id="How-People-Got-Hurt" font-family="Helvetica-Bold, Helvetica" font-size="58" font-weight="bold" letter-spacing="-1.33722222">
+                <tspan x="35" y="87" fill="#FFFFFF">How People Got</tspan>
+                <tspan x="460.964436" y="87" fill="#FFCC33"> </tspan>
+                <tspan x="475.741471" y="87" fill="#FC0D1B">Hurt</tspan>
+                <tspan x="589.592778" y="87" fill="#FFCC33"> </tspan>
+                <tspan x="35" y="157" fill="#FFFFFF">on the</tspan>
+                <tspan x="200.948346" y="157" fill="#FFCC33"> </tspan>
+                <tspan x="215.725382" y="157" fill="#FFFFFF">Road</tspan>
+                <tspan x="355.376493" y="157" fill="#FFCC33"> </tspan>
+                <tspan x="370.153529" y="157" fill="#FFFFFF">in</tspan>
+                <tspan x="419.022053" y="157" fill="#FFCC33"> </tspan>
+                <tspan x="433.799089" y="157" fill="#FFC001">Philly</tspan>
+                <tspan x="580.489622" y="157" fill="#FFCC33"> </tspan>
+                <tspan x="595.266658" y="157" fill="#7ED321">2014</tspan>
+            </text>
+            <rect id="Rectangle-2" fill-opacity="0.682376585" fill="#000000" x="56" y="339" width="730" height="489"></rect>
+            <g id="Group-2" transform="translate(507.000000, 475.000000)">
+                <use id="Rectangle-4" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+                <circle id="Oval-2" fill="#FF0000" cx="4.5" cy="3.5" r="1.5"></circle>
+                <circle id="Oval-2-Copy" fill="#F8E81C" cx="4.5" cy="7.5" r="1.5"></circle>
+                <circle id="Oval-2-Copy-2" fill="#7ED321" cx="4.5" cy="11.5" r="1.5"></circle>
+            </g>
+            <rect id="Rectangle" fill="#FFE100" x="836" y="-5" width="52" height="321.828125"></rect>
+            <rect id="Rectangle-Copy" fill="#FFE100" x="908" y="-5" width="52" height="321.828125"></rect>
+            <use id="Rectangle-3" stroke="#FF4848" mask="url(#mask-4)" stroke-width="2" xlink:href="#path-3"></use>
+            <g id="Group-3" transform="translate(125.000000, 501.000000)">
+                <polyline id="Path-2" stroke="#FF4747" stroke-width="3" points="7 31 105 119 207 112 307 5 406 5 500 64 592 43"></polyline>
+                <circle id="Oval" stroke="#FF4848" stroke-width="2" fill="#000000" cx="5.5" cy="31.5" r="5.5"></circle>
+                <circle id="Oval-Copy" stroke="#FF4848" stroke-width="2" fill="#000000" cx="104.5" cy="118.5" r="5.5"></circle>
+                <circle id="Oval-Copy-2" stroke="#FF4848" stroke-width="2" fill="#000000" cx="205.5" cy="113.5" r="5.5"></circle>
+                <circle id="Oval-Copy-3" stroke="#FF4848" stroke-width="2" fill="#000000" cx="306.5" cy="5.5" r="5.5"></circle>
+                <circle id="Oval-Copy-4" stroke="#FF4848" stroke-width="2" fill="#FF4848" cx="403.5" cy="5.5" r="5.5"></circle>
+                <circle id="Oval-Copy-5" stroke="#FF4848" stroke-width="2" fill="#000000" cx="499.5" cy="65.5" r="5.5"></circle>
+                <circle id="Oval-Copy-6" stroke="#FF4848" stroke-width="2" fill="#000000" cx="591.5" cy="42.5" r="5.5"></circle>
+            </g>
+            <g id="Group-4" transform="translate(125.000000, 625.000000)" stroke="#FFE100">
+                <polyline id="Path-4" stroke-width="3" points="6 5 104 94 206 119 305 109 405 82 502 26 593 31"></polyline>
+                <circle id="Oval" stroke-width="2" fill="#000000" cx="5.5" cy="5.5" r="5.5"></circle>
+                <circle id="Oval-Copy-7" stroke-width="2" fill="#000000" cx="102.5" cy="93.5" r="5.5"></circle>
+                <circle id="Oval-Copy-8" stroke-width="2" fill="#000000" cx="205.5" cy="119.5" r="5.5"></circle>
+                <circle id="Oval-Copy-9" stroke-width="2" fill="#000000" cx="304.5" cy="108.5" r="5.5"></circle>
+                <circle id="Oval-Copy-10" stroke-width="2" fill="#000000" cx="403.5" cy="82.5" r="5.5"></circle>
+                <circle id="Oval-Copy-11" stroke-width="2" fill="#000000" cx="501.5" cy="26.5" r="5.5"></circle>
+                <circle id="Oval-Copy-12" stroke-width="2" fill="#000000" cx="591.5" cy="32.5" r="5.5"></circle>
+            </g>
+            <g id="Group-5" transform="translate(125.000000, 724.000000)" stroke="#26FF00">
+                <polyline id="Path-5" stroke-width="3" points="7 30 105 35 206 6 306 28 403 25 498 17 593 26"></polyline>
+                <circle id="Oval" stroke-width="2" fill="#000000" cx="5.5" cy="31.5" r="5.5"></circle>
+                <circle id="Oval-Copy-13" stroke-width="2" fill="#000000" cx="103.5" cy="35.5" r="5.5"></circle>
+                <circle id="Oval-Copy-14" stroke-width="2" fill="#000000" cx="205.5" cy="5.5" r="5.5"></circle>
+                <circle id="Oval-Copy-15" stroke-width="2" fill="#000000" cx="304.5" cy="26.5" r="5.5"></circle>
+                <circle id="Oval-Copy-16" stroke-width="2" fill="#000000" cx="403.5" cy="24.5" r="5.5"></circle>
+                <circle id="Oval-Copy-17" stroke-width="2" fill="#000000" cx="497.5" cy="16.5" r="5.5"></circle>
+                <circle id="Oval-Copy-18" stroke-width="2" fill="#000000" cx="591.5" cy="24.5" r="5.5"></circle>
+            </g>
+            <path d="M35,180 L775,180" id="Line" stroke="#FFE100" stroke-width="4" stroke-linecap="square"></path>
+            <text id="26" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.322777808" fill="#FFFFFF">
+                <tspan x="523" y="452">26</tspan>
+            </text>
+            <text id="11" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.322777808" fill="#FFFFFF">
+                <tspan x="523" y="469">11</tspan>
+            </text>
+            <text id="11-copy" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.322777808" fill="#FFFFFF">
+                <tspan x="523" y="487">11</tspan>
+            </text>
+            <polygon id="Polygon" stroke="#FFFFFF" fill="#FF2C2C" transform="translate(510.839378, 447.839378) rotate(22.500000) translate(-510.839378, -447.839378) " points="510.839378 441.839378 515.082018 443.596737 516.839378 447.839378 515.082018 452.082018 510.839378 453.839378 506.596737 452.082018 504.839378 447.839378 506.596737 443.596737"></polygon>
+            <g id="Group" transform="translate(504.000000, 458.000000)">
+                <path d="M6.5,10.6785714 L6.5,1.85714286" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                <polygon id="Triangle" fill="#FFFFFF" points="6.5 0 9.28571429 2.68577449 3.71428571 2.68577449"></polygon>
+                <polyline id="Triangle-Copy" fill="#FFFFFF" points="6.5 12.9000602 9.28571429 10.2142857 3.71428571 10.2142857"></polyline>
+                <path d="M2.32142857,6.5 L11.1428571,6.5" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                <polygon id="Triangle" fill="#FFFFFF" points="12.9000602 6.5 10.2142857 9.28571429 10.2142857 3.71428571"></polygon>
+                <polyline id="Triangle-Copy" fill="#FFFFFF" points="0 6.5 2.68577449 9.28571429 2.68577449 3.71428571"></polyline>
+            </g>
+            <g id="Group-2-Copy" transform="translate(47.000000, 363.000000)">
+                <g id="Group" transform="translate(38.979495, 0.000000)" stroke="#FFFFFF" stroke-linecap="square">
+                    <path d="M0.672060255,0.673725683 L0.672060255,428.582361" id="Line"></path>
+                    <path d="M0.672060255,429.16326 L690.211122,429.16326" id="Line"></path>
+                </g>
+                <text id="Mon" font-family="Helvetica" font-size="18" font-weight="normal" letter-spacing="-0.415000021" fill="#FFFFFF">
+                    <tspan x="57.7971819" y="447.836986">Mon</tspan>
+                </text>
+                <text id="0" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.322777808" fill="#FFFFFF">
+                    <tspan x="23.1624921" y="431.709924">0</tspan>
+                </text>
+                <text id="10" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.322777808" fill="#FFFFFF">
+                    <tspan x="15.6991371" y="376.464418">10</tspan>
+                </text>
+                <text id="20" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.322777808" fill="#FFFFFF">
+                    <tspan x="15.6991371" y="321.218912">20</tspan>
+                </text>
+                <text id="30" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.322777808" fill="#FFFFFF">
+                    <tspan x="15.6991371" y="265.973406">30</tspan>
+                </text>
+                <text id="40" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.322777808" fill="#FFFFFF">
+                    <tspan x="15.6991371" y="210.7279">40</tspan>
+                </text>
+                <text id="50" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.322777808" fill="#FFFFFF">
+                    <tspan x="15.6991371" y="155.482393">50</tspan>
+                </text>
+                <text id="60" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.322777808" fill="#FFFFFF">
+                    <tspan x="15.6991371" y="100.236887">60</tspan>
+                </text>
+                <text id="70" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.322777808" fill="#FFFFFF">
+                    <tspan x="15.6991371" y="44.9913814">70</tspan>
+                </text>
+                <text id="Tues" font-family="Helvetica" font-size="18" font-weight="normal" letter-spacing="-0.415000021" fill="#FFFFFF">
+                    <tspan x="158.027227" y="447.836986">Tues</tspan>
+                </text>
+                <text id="Wed" font-family="Helvetica" font-size="18" font-weight="normal" letter-spacing="-0.415000021" fill="#FFFFFF">
+                    <tspan x="263.825608" y="447.836986">Wed</tspan>
+                </text>
+                <text id="Thurs" font-family="Helvetica" font-size="18" font-weight="normal" letter-spacing="-0.415000021" fill="#FFFFFF">
+                    <tspan x="365.447737" y="447.836986">Thurs</tspan>
+                </text>
+                <text id="Fri" font-family="Helvetica" font-size="18" font-weight="normal" letter-spacing="-0.415000021" fill="#FFFFFF">
+                    <tspan x="482.38279" y="447.836986">Fri</tspan>
+                </text>
+                <text id="Sat" font-family="Helvetica" font-size="18" font-weight="normal" letter-spacing="-0.415000021" fill="#FFFFFF">
+                    <tspan x="563.123659" y="447.836986">Sat</tspan>
+                </text>
+                <text id="Sun" font-family="Helvetica" font-size="18" font-weight="normal" letter-spacing="-0.415000021" fill="#FFFFFF">
+                    <tspan x="650.824949" y="447.836986">Sun</tspan>
+                </text>
+            </g>
+            <rect id="Rectangle-5" fill="#FF4848" x="813" y="431" width="145" height="4"></rect>
+            <rect id="Rectangle-5-Copy" fill="#26FF00" x="813" y="478" width="145" height="4"></rect>
+            <rect id="Rectangle-5-Copy-2" fill="#FFE100" x="813" y="524" width="145" height="4"></rect>
+            <text id="Pedestrian-Injuries" font-family="Helvetica" font-size="18" font-weight="normal" letter-spacing="-0.415000051" fill="#FFFFFF">
+                <tspan x="813" y="418">Pedestrian Injuries</tspan>
+            </text>
+            <text id="Bicycle-Injuries" font-family="Helvetica" font-size="18" font-weight="normal" letter-spacing="-0.415000051" fill="#FFFFFF">
+                <tspan x="813" y="465">Bicycle Injuries</tspan>
+            </text>
+            <text id="Motorcycle-Injuries" font-family="Helvetica" font-size="18" font-weight="normal" letter-spacing="-0.415000051" fill="#FFFFFF">
+                <tspan x="813" y="511">Motorcycle Injuries</tspan>
+            </text>
+            <text id="Signalized" font-family="Helvetica" font-size="18" font-weight="normal" letter-spacing="-0.415000051" fill="#FFFFFF">
+                <tspan x="856" y="709">Signalized</tspan>
+            </text>
+            <text id="Hover-the" font-family="Helvetica" font-size="18" font-weight="normal" letter-spacing="-0.415000051" fill="#FFFFFF">
+                <tspan x="814" y="801">Hover the </tspan>
+            </text>
+            <circle id="Oval-3" stroke="#FFFFFF" cx="899.5" cy="796.5" r="3.5"></circle>
+            <circle id="Oval-3-Copy" stroke="#FFFFFF" fill="#FFFFFF" cx="955.5" cy="796.5" r="3.5"></circle>
+            <text id="All-way" font-family="Helvetica" font-size="18" font-weight="normal" letter-spacing="-0.415000051" fill="#FFFFFF">
+                <tspan x="856" y="658">All-way </tspan>
+            </text>
+            <text id="Conventional" font-family="Helvetica" font-size="18" font-weight="normal" letter-spacing="-0.415000051" fill="#FFFFFF">
+                <tspan x="856" y="605">Conventional</tspan>
+            </text>
+            <polygon id="Polygon" stroke="#FFFFFF" stroke-width="2" fill="#FF2C2C" transform="translate(828.850055, 597.850055) rotate(22.500000) translate(-828.850055, -597.850055) " points="828.850055 582 840.057736 586.642374 844.700109 597.850055 840.057736 609.057736 828.850055 613.700109 817.642374 609.057736 813 597.850055 817.642374 586.642374"></polygon>
+            <g id="Group" transform="translate(814.000000, 636.000000)">
+                <path d="M14,23.8214286 L14,4.14285714" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+                <polygon id="Triangle" fill="#FFFFFF" points="14.5 0 20.7142857 5.9913431 8.28571429 5.9913431"></polygon>
+                <polyline id="Triangle-Copy" fill="#FFFFFF" points="14.5 28.7770574 20.7142857 22.7857143 8.28571429 22.7857143"></polyline>
+                <path d="M5.17857143,14 L24.8571429,14" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+                <polygon id="Triangle" fill="#FFFFFF" points="28.7770574 14.5 22.7857143 20.7142857 22.7857143 8.28571429"></polygon>
+                <polyline id="Triangle-Copy" fill="#FFFFFF" points="0 14.5 5.9913431 20.7142857 5.9913431 8.28571429"></polyline>
+            </g>
+            <g id="Group-2" transform="translate(821.000000, 686.000000)">
+                <use id="Rectangle-4" stroke="#FFFFFF" mask="url(#mask-6)" stroke-width="4" xlink:href="#path-5"></use>
+                <circle id="Oval-2" fill="#FF0000" cx="9" cy="7" r="3"></circle>
+                <circle id="Oval-2-Copy" fill="#F8E81C" cx="9" cy="15" r="3"></circle>
+                <circle id="Oval-2-Copy-2" fill="#7ED321" cx="9" cy="23" r="3"></circle>
+            </g>
+            <path d="M910.5,796.5 L944.5,796.5" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+            <path id="Line-decoration-1" d="M944.5,796.5 L933.7,793.5 L933.7,799.5 L944.5,796.5 Z" stroke="#FFFFFF" stroke-linecap="square"></path>
+            <text id="In-Philly,-a-lot-of" font-family="Helvetica" font-size="21" font-weight="normal" line-spacing="35" letter-spacing="-0.484166712" fill="#FFFFFF">
+                <tspan x="35" y="229">In Philly, a lot of people get hurt on the road each year. The chart shows the injuries </tspan>
+                <tspan x="35" y="264">data in 2014. The relations between trip mode, days of a week and intersections </tspan>
+                <tspan x="35" y="299">can help people to avoid hurts and provide useful information to city planners.</tspan>
+            </text>
+            <text id="Total-#-of-Injuries" transform="translate(38.000000, 568.500000) rotate(270.000000) translate(-38.000000, -568.500000) " font-family="Helvetica" font-size="20" font-weight="normal" letter-spacing="-0.461111099" fill="#FFFFFF">
+                <tspan x="-33.5" y="575.5">Total # of Injuries</tspan>
+            </text>
+            <use id="Rectangle-6" stroke="#FFE100" mask="url(#mask-8)" stroke-width="8" xlink:href="#path-7"></use>
+        </g>
+    </g>
+</svg>
