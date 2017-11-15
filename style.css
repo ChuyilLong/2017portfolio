@@ -512,6 +512,7 @@ header h3:hover{
 	font-weight: lighter;
 	font-family: helvetica;
 	margin-top: 50px;
+	margin-bottom: 50px;
 
 }
 .social a{
@@ -535,7 +536,6 @@ header h3:hover{
 .code{
 	float: left;
 	width: 100%;
-	margin-top: 50px;
 	background-color: #AF7676;
 }
 .code h4{
@@ -776,15 +776,196 @@ header h3:hover{
 	text-align: center;
 	padding-top: 70px;
     padding-bottom: 70px;
-    margin-bottom: -50px; 
 }
 .beer-watch h2{
 	font-weight: normal;
 }
 /*silentshield*/
+.header-traffic{
+	background-color: #464646;
+	width: 100%;
+	float: left;
+	height: 50px;
+	z-index: 2;
+	position: absolute;
+}
 
+.traffic-project{
+	float: left;
+	width: 100%;
+	font-family: helvetica;
+	color: #323232;
 
+}
+.traffic-project h2{
+	color: #FFCC33;
+	font-size: 20px;
+	text-align: center;
+	padding-bottom: 40px;
+}
+.traffic-project h3{
+	color: #FFF;
+	font-size: 18px;
+	font-weight: normal;
+}
+.traffic-project h4{
+	color: #C7C7C7;
+	font-size: 18px;
+	font-weight: normal;
+}
 
+.code-traffic{
+	background-color: #464646;
+	float: left;
+	width: 100%;
+}
+.traffic-h{
+	float: left;
+	width: 100%;
+	background-color: #323232;
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	z-index: 1;
+}
+.traffic-datasetuse{
+	float: left;
+	width: 100%;
+	background-color: #464646;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.traffic-datasetuse-con{
+	width: 600px;
+	margin: 0 auto;
+}
+.traffic-data-interview{
+	float: left;
+	width: 100%;
+	background-color: #323232;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
 
+.traffic-data-interview h3{
+    margin: 0 auto;
+    width: 800px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.traffic-data-interview-imgcon{
+	width: 700px;
+	height: 400px;
+	margin: 0 auto;
+	
+}
+.traffic-data-interview h2{
+	padding-bottom: 0px;
+}
+.traffic-data-interview img{
+	width: 100%;
+	height: 400px;
+	float: left;
+}
+.traffic-data-interview h4{
+	text-align: center;
+	margin-top: 10px;
+	float: left;
+}
+.traffic-data-interview a{
+	text-decoration: none;
+	color: #C7C7C7;
 
-
+}
+.traffic-data-interview a:hover{
+	text-decoration: underline;
+}
+.traffic-interview{
+	float: left;
+	width: 100%;
+	background-color: #464646;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.traffic-interview h2{
+	margin-bottom: 0px;
+}
+.traffic-interview p {
+    color: #FFF;
+    font-size: 18px;
+    color: #FFF;
+    font-weight: lighter;
+    width: 700px;
+    margin: 0 auto;
+    line-height: 30px;
+}
+.traffic-affinity{
+	float: left;
+	width: 100%;
+	background-color: #323232;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.traffic-affinity h2{
+	padding-bottom: 0;
+}
+.traffic-affinity-con{
+	width: 700px;
+	margin: 0 auto;
+	float: none;
+}
+.traffic-affinity img{
+	width: 700px;
+}
+.traffic-affinity h3{
+	width: 100%;
+	text-align:  center;
+}
+.traffic-findingsummary{
+	float: left;
+	width: 100%;
+	background-color: #464646;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.traffic-findings{
+	width: 1140px;
+	margin: 0 auto;
+}
+.traffic-findingsummary h2{
+	padding-bottom: 0;
+}
+.traffic-findings p{
+	color: #FFF;
+	font-size: 18px;
+	font-weight: lighter;
+	line-height: 25px;
+}
+.finding-design{
+	float: left;
+	width: 48%;
+}
+.finding-crash{
+	float: right;
+	width: 48%;
+}
+.traffic-draftstory{
+	float: left;
+	width: 100%;
+	background-color: #323232;
+	padding-top: 70px;
+	padding-bottom: 70px;
+	text-align: center;
+}
+.traffic-draftstory h2{
+	padding-bottom: 0;
+}
+.traffic-draftstory h5{
+	color: 
+	font-size:20px;
+	color:#FFCC33;
+}
+.traffic-draftstory h4:hover{
+	text-decoration: underline;
+}
+/*traffic*/
