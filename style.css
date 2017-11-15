@@ -658,6 +658,129 @@ header h3:hover{
     margin-right: 1%;
     margin-bottom: 30px;
 }
+.beer-content{
+	width: 100%;
+	padding-top: 70px;
+	padding-bottom: 70px;
+	text-align: center;
+	float: left;
+}
+.beer-content img{
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+.beer-sitemap{
+	width: 100%;
+	padding-top: 70px;
+	padding-bottom: 70px;
+	text-align: center;
+	float: left;
+	background-color: #E9ECF0;
+}
+.beer-sitemap img{
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+.beer-journey{
+	width: 100%;
+	padding-top: 70px;
+	padding-bottom: 70px;
+	text-align: center;
+	float: left;
+}
+.beer-journey img{
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+.beer-wireframe{
+	width: 100%;
+	padding-top: 70px;
+	padding-bottom: 70px;
+	text-align: center;
+	float: left;
+	background-color: #E9ECF0;
+}
+.beer-wireframe img{
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+.beer-moodboard{
+	width: 100%;
+	padding-top: 70px;
+	padding-bottom: 70px;
+	text-align: center;
+	float: left;
+}
+.beer-moodboard img{
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+.beer-branding{
+	width: 100%;
+	padding-top: 70px;
+	padding-bottom: 70px;
+	text-align: center;
+	float: left;
+	background-color: #E9ECF0;
+}
+.beer-branding img{
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+.beer-mockup{
+	float: left;
+	width: 100%;
+	padding-top: 70px;
+    padding-bottom: 70px;
+}
+.beer-mockup p{
+	margin-top: 40px;
+}
+.beer-mockup-con {
+    width: 944px;
+    
+    text-align: center;
+    margin: 0 auto;
+}
+.beer-mockup-l{
+	float: left;
+}
+.beer-mockup-r{
+	float: right;
+}
+.beer-mockup img{
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+.beer-design{
+	float: left;
+	width: 100%;
+	text-align: center;
+	background-color:#E9ECF0;
+	padding-top: 70px;
+    padding-bottom: 70px;
+}
+.beer-design p{
+	margin-top: 40px;
+}
+.beer-design a{
+	text-decoration: none;
+	color: #102E58;
+}
+.beer-design a:hover{
+	text-decoration: underline;
+}
+.beer-watch{
+	float: left;
+	width: 100%;
+	text-align: center;
+	padding-top: 70px;
+    padding-bottom: 70px;
+    margin-bottom: -50px; 
+}
+.beer-watch h2{
+	font-weight: normal;
+}
 /*silentshield*/
 
 
