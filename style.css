@@ -323,7 +323,20 @@ header h3:hover{
 	width: 100%;
 	border-top: solid 1px #AF7676;
 	margin-bottom: 45px;
+	text-align: left;
 }
+.about-left{
+	float: left;
+	width: 25%;
+	margin-left: 15%;
+}
+.about-right{
+	float: right;
+	width: 45%;
+	margin-right: 15%;
+	margin-top: 50px;
+}
+
 .about-id{
 	float: left;
 }
@@ -344,7 +357,7 @@ header h3:hover{
 }
 .about h3{
 	color: #AF7676;
-	font-size: 16px;
+	font-size: 20px;
 	font-weight: lighter;
 	font-family: helvetica;
 }
@@ -1278,3 +1291,80 @@ header h3:hover{
 	padding-top: 70px;
     padding-bottom: 30px;
 }
+/*star*/
+
+.header-reminder{
+	background-color: #5B8B63;
+	width: 100%;
+	float: left;
+	height: 50px;
+	z-index: 2;
+	position: absolute;
+}
+
+.reminder-project{
+	float: left;
+	width: 100%;
+	font-family: helvetica;
+	text-align: center;
+
+}
+
+.reminder-project h3{
+	color: #c41B2C;
+	font-size: 20px;
+	font-weight: normal;
+}
+
+.reminder-h{
+	background:url(images/reminder-head2.jpg) no-repeat center center;
+	float: left;
+    background-size: cover;
+    width: 100%;
+    position: relative;
+    padding-top: 120px;
+    padding-bottom: 170px;
+}
+
+.code-reminder{
+	background-color: #5B8B63;
+	float: left;
+	width: 100%;
+}
+.reminder-t-con{
+	width: 400px;
+	float: right;
+	margin-right: 110px;
+}
+.reminder-title{
+	float: left;
+	margin-bottom: 20px;
+}
+.reminder-hh{
+	float: left;
+}
+.reminder-hh h3 {
+    color: #FFF;
+    width: 100%;
+    float: left;
+    text-align: left;
+    margin-top: 10px;
+}
+.reminder-hh img{
+	float: right;
+    padding: 0;
+    margin: 0;
+    margin-right: 180px;
+    margin-top: -70px;
+}
+
+
+
+
+
+
+
+
+
+
+/*reminder*/
