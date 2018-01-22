@@ -1322,8 +1322,9 @@ header h3:hover{
     background-size: cover;
     width: 100%;
     position: relative;
-    padding-top: 120px;
-    padding-bottom: 170px;
+    /*padding-top: 120px;
+    padding-bottom: 170px;*/
+    height: 630px;
 }
 
 .code-reminder{
@@ -1335,6 +1336,8 @@ header h3:hover{
 	width: 400px;
 	float: right;
 	margin-right: 110px;
+	padding-top: 160px;
+	padding-bottom: 200px;
 }
 .reminder-title{
 	float: left;
@@ -1358,13 +1361,238 @@ header h3:hover{
     margin-top: -70px;
 }
 
+.reminder-project h2{
+	text-align: center;
+	color: #5B8B63;
+	font-size: 20px;
+	font-weight: normal;
+	padding-bottom: 40px;
+	padding-top: 70px;
+}
+.reminder-idea{
+	float: left;
+	width: 100%;
+	padding-bottom: 70px;
+}
+
+.reminder-idea-1{
+	width: 900px;
+	margin: 0 auto;
+}
+.r-d-1-r{
+	float: right;
+	width: 400px;
+	margin-top: 45px;
+}
+
+.reminder-idea-1 img{
+	float: left;
+}
+.reminder-idea-1 h4{
+	width: 100%;
+	float: left;
+	text-align: left;
+	margin-bottom: 0;
+}
+
+.reminder-idea-1 p{
+	float: left;
+	text-align: left;
+	width: 100%;
+}
+.reminder-idea-con{
+	float: left;
+	width: 100%;
+}
+.reminder-idea-2{
+	width: 900px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.reminder-idea-2 img{
+	float: left;
+	width: 50px;
+}
+.reminder-idea-2 p{
+	float: right;
+	width: 800px;
+	margin-top: 5px;
+	margin-left: 50px;
+	text-align: left;
+}
+.reminder-idea-3{
+	width: 900px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.reminder-idea-3 img{
+	float: left;
+	width: 50px;
+	margin-top: 15px;
+}
+.reminder-idea-3 p{
+	float: right;
+	width: 800px;
+	margin-left: 50px;
+	margin-top: 5px;
+	text-align: left;
+}
+.reminder-idea-4{
+	width: 900px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.reminder-idea-4 img{
+	float: left;
+	margin-top: 15px;
+}
+.reminder-idea-4 p {
+    float: right;
+    width: 350px;
+    margin-left: 30px;
+    margin-top: 80px;
+    text-align: left;
+}
+
+.re-draftflow{
+	float: left;
+	width: 100%;
+	padding-bottom: 70px;
+	background-color: #DEE8DF;
+}
+.re-draft{
+	width: 1024px;
+	margin: 0 auto;
+}
+
+.re-draft img{
+	float: left;
+	width: 550px;
+}
+
+.re-draft h4{
+	float: right;
+	width: 450px;
+	text-align: left;
+	margin-top: 50px;
+}
+.re-draft p{
+	float: right;
+	width: 450px;
+	text-align: left;
+	line-height: 3;
+}
+
+.re-affinity{
+	width: 1024px;
+	margin: 0 auto;
+
+}
+.re-affinity h2 {
+    padding-top: 70px;
+    float: left;
+    text-align: center;
+    width: 100%;
+}
+.re-affinity img{
+	float: left;
+	width: 100%;
+}
 
 
+.re-affinity p{
+	float: left;
+	margin-left: 64px;
+	text-align: left;
+	line-height: 2;
+	margin-bottom: 70px;
+}
+.re-im-flow{
+	float: left;
+	width: 100%;
+	background-color: #DEE8DF;
+}
 
+.re-im-flow-c{
+	width: 1024px;
+	margin: 0 auto;
+	float: none;
 
+}
+.re-im-flow h2 {
+    padding-top: 70px;
+    float: left;
+    text-align: center;
+    width: 100%;
+}
 
+.re-im-flow-p{
+	width: 360px;
+	margin: 0 auto;
+	float: none;
+}
+.re-im-flow p{
+	float: left;
+	text-align: left;
+	line-height: 2;
+	margin-bottom: 70px;
+}
 
+.re-content{
+	float: left;
+	width: 100%;
+	margin-bottom: 70px;
+}
+.re-content h4{
+	margin-bottom: 0;
+	padding-bottom: 20px;
+	margin-top: 0;
+}
+.re-content img{
+	margin:  0 auto;
+	margin-top: 40px;
+}
 
-
+.re-feature{
+	float: left;
+	width: 100%;
+	padding-bottom: 70px;
+	background-color: #DEE8DF;
+}
+.re-feature h4{
+	margin-bottom: 0;
+	padding-bottom: 20px;
+	margin-top: 0;
+}
+.re-feature img{
+	margin:  0 auto;
+	width: 1024px;
+}
+.re-draftdesign{
+	float: left;
+	width: 100%;
+	padding-bottom: 70px;
+}
+.re-draftdesign h2{
+	padding-bottom: 20px;
+}
+.re-draftdesign p{
+	margin: 0 auto;
+	width: 863px;
+	text-align: left;
+}
+.re-draftdesign img{
+	margin: 0 auto;
+	width: 1024px;
+	margin-bottom: 20px;
+}
+.re-d-1 p{
+	margin-bottom: 30px;
+}
+.re-d-2 img{
+	margin: 0 auto;
+	width: 863px;
+	margin-bottom: 20px;
+}
 
 /*reminder*/

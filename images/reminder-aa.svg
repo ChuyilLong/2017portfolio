@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="802px" height="27px" viewBox="0 0 802 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 11</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-weight="400" font-family="Futura-Medium, Futura" letter-spacing="-0.553333342" font-size="24">
+        <g id="1-cover" transform="translate(-319.000000, -4048.000000)" fill="#000000">
+            <g id="Group-11" transform="translate(317.000000, 4043.000000)">
+                <text id="Lock-Screen">
+                    <tspan x="0" y="25">Lock Screen</tspan>
+                </text>
+                <text id="To-Do-List">
+                    <tspan x="175" y="25">To Do List</tspan>
+                </text>
+                <text id="Add-Item">
+                    <tspan x="324" y="25">Add Item</tspan>
+                </text>
+                <text id="History">
+                    <tspan x="471" y="25">History</tspan>
+                </text>
+                <text id="Edit-Item">
+                    <tspan x="595" y="25">Edit Item</tspan>
+                </text>
+                <text id="Setting">
+                    <tspan x="735" y="25">Setting</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

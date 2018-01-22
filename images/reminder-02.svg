@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="55px" height="46px" viewBox="0 0 55 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-cover" transform="translate(-248.000000, -1250.000000)">
+            <g id="Group-4" transform="translate(248.000000, 1252.000000)">
+                <g id="Group-2" transform="translate(15.000000, 0.000000)">
+                    <path d="M13,29.5479876 C20.1797017,29.5479876 26,23.7276894 26,16.5479876 C26,13.3200107 24.8234964,10.3668209 22.8758987,8.09382788 C21.6445061,6.65670014 20.1048644,5.49148484 18.359441,4.70064944 C16.7253072,3.96023835 14.9107968,3.54798762 13,3.54798762 C11.0525243,3.54798762 9.20506691,3.97621707 7.54665431,4.74364956 C3.0910457,6.80548797 0,11.3157616 0,16.5479876 C0,23.7276894 5.82029825,29.5479876 13,29.5479876 Z" id="Oval-2" stroke="#5B8B63" stroke-width="3"></path>
+                    <path d="M3.27191011,6.17647059 C5.07893617,6.17647059 4.09391709,7.2477293 4.09391709,5.40928793 C4.09391709,3.57084655 5.07893617,0 3.27191011,0 C1.46488405,0 0,3.57084655 0,5.40928793 C0,7.2477293 1.46488405,6.17647059 3.27191011,6.17647059 Z" id="Oval-3" stroke="#5B8B63" stroke-width="3" fill="#5B8B63"></path>
+                    <path d="M24.7891515,6.17647059 C26.5961775,6.17647059 25.6111585,7.2477293 25.6111585,5.40928793 C25.6111585,3.57084655 26.5961775,0 24.7891515,0 C22.9821254,0 21.5172414,3.57084655 21.5172414,5.40928793 C21.5172414,7.2477293 22.9821254,6.17647059 24.7891515,6.17647059 Z" id="Oval-3-Copy" stroke="#5B8B63" stroke-width="3" fill="#5B8B63" transform="translate(23.698185, 3.243380) scale(-1, 1) translate(-23.698185, -3.243380) "></path>
+                    <ellipse id="Oval-4" fill="#5B8B63" cx="7.2946763" cy="15.0798762" rx="1.68568753" ry="1.72383901"></ellipse>
+                    <ellipse id="Oval-4-Copy" fill="#5B8B63" cx="19.2311664" cy="15.0798762" rx="1.68568753" ry="1.72383901"></ellipse>
+                    <path d="M8.64719101,23.104644 C8.64719101,23.104644 9.34907833,21.5591331 13.1172358,21.5591331 C16.8853933,21.5591331 17.5872806,23.104644 17.5872806,23.104644" id="Path-9" stroke="#5B8B63" stroke-width="3" stroke-linecap="round"></path>
+                </g>
+                <text id="PROBLEM" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" letter-spacing="-0.276666671" fill="#5B8B63">
+                    <tspan x="0" y="43">PROBLEM</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
