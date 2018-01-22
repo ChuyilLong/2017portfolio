@@ -1594,5 +1594,48 @@ header h3:hover{
 	width: 863px;
 	margin-bottom: 20px;
 }
+.re-validation{
+	float: left;
+	width: 100%;
+	padding-bottom: 70px;
+	background-color: #DEE8DF;
+}
+.re-validation a{
+	color: #000;
+}
+.re-validation h2{
+	padding-bottom: 20px;
+}
+.re-validation p{
+	line-height: 2;
+	text-align: left;
+	width: 700px;
+	margin: 0 auto;
+}
+.re-vali-a img{
+	width: 1024px;
+}
+.re-vali-b img{
+	width: 1024px;
+}
+.re-demo{
+	float: left;
+	width: 100%;
+	padding-bottom: 70px;
+}
+.re-demo h2{
+	padding-bottom: 20px;
+}
+.re-demo a{
+	color: #000;
+}
+.re-tks{
+	float: left;
+	width: 100%;
+	background-color: #DEE8DF;
+	padding-bottom: 30px;
+}
 
-/*reminder*/
+
+ /*reminder*/
+
