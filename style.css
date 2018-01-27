@@ -211,6 +211,30 @@ header h3:hover{
 	box-shadow: 2px 2px 4px #CCCCCC;
 	margin: 15px;
 }
+.reminder{
+	float: left;
+	width: 310px;
+	height: 280px;
+	background-image: url(images/Reminder-h.svg);
+	box-shadow: 2px 2px 4px #CCCCCC;
+	margin: 15px;
+}
+.weekend{
+	float: left;
+	width: 310px;
+	height: 280px;
+	background-image: url(images/weekend.svg);
+	box-shadow: 2px 2px 4px #CCCCCC;
+	margin: 15px;
+}
+.partyup{
+	float: left;
+	width: 310px;
+	height: 280px;
+	background-image: url(images/partyup.svg);
+	box-shadow: 2px 2px 4px #CCCCCC;
+	margin: 15px;
+}
 .work h3{
 	float: left;
 	width: 100%;
@@ -317,7 +341,55 @@ header h3:hover{
 	background: url(images/datavisual-b.svg);
 	box-shadow: none;
 }  
+.reminder:hover.reminder h3{
+	display: none;
+}
+.reminder:hover.reminder h4{
+	display: block;
+}
+.reminder:hover.reminder h5{
+	display: block;
+}
+.reminder:hover.reminder h6{
+	display: block;
+}
+.reminder:hover{
+	background: url(images/reminder-h-b.svg);
+	box-shadow: none;
+}   /*reminderhover*/
+.weekend:hover.weekend h3{
+	display: none;
+}
+.weekend:hover.weekend h4{
+	display: block;
+}
+.weekend:hover.weekend h5{
+	display: block;
+}
+.weekend:hover.weekend h6{
+	display: block;
+}
+.weekend:hover{
+	background: url(images/weekend-b.svg);
+	box-shadow: none;
+}   /*weekendhover*/
 
+.partyup:hover.partyup h3{
+	display: none;
+}
+.partyup:hover.partyup h4{
+	display: block;
+}
+.partyup:hover.partyup h5{
+	display: block;
+}
+.partyup:hover.partyup h6{
+	display: block;
+}
+.partyup:hover{
+	background: url(images/partyup-b.svg);
+	box-shadow: none;
+}   /*partyhover*/
 .about{
 	float: left;
 	width: 100%;

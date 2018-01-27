@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="310px" height="280px" viewBox="0 0 310 280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 12</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="129.596172" height="64.6864686"></rect>
+        <rect id="path-3" x="0.444146055" y="0.0291976238" width="61.2475061" height="9.24092409" rx="4.62046205"></rect>
+        <rect id="path-5" x="0.444145611" y="0.0291976238" width="61.2475061" height="9.24092409" rx="4.62046205"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landingPage-style-Copy-2" transform="translate(-565.000000, -1141.000000)">
+            <g id="Group-12" transform="translate(565.000000, 1141.000000)">
+                <g id="Artboard-Copy-2">
+                    <g id="Page-1">
+                        <g>
+                            <g id="Artboard-Copy-2">
+                                <rect id="Rectangle-3-Copy" fill="#FFF7EC" fill-rule="nonzero" x="0" y="0" width="310" height="240.264026"></rect>
+                                <ellipse id="body" stroke="#000000" stroke-width="3" fill="#7B422F" fill-rule="nonzero" cx="158.888458" cy="188.514851" rx="85.2139215" ry="85.9405941"></ellipse>
+                                <g id="head" transform="translate(88.764502, 13.861386)" fill-rule="nonzero">
+                                    <g id="ears-l" transform="translate(0.000000, 0.924092)" stroke="#000000" stroke-width="3" fill="#7B422F">
+                                        <ellipse id="Oval-3" cx="17.3090778" cy="18.019802" rx="17.3090778" ry="18.019802"></ellipse>
+                                        <ellipse id="Oval-3" cx="17.7529003" cy="18.4818482" rx="12.4270302" ry="12.9372937"></ellipse>
+                                    </g>
+                                    <g id="ears-r" transform="translate(100.303887, 0.924092)" stroke="#000000" stroke-width="3" fill="#7B422F">
+                                        <ellipse id="Oval-3" cx="17.3090778" cy="18.019802" rx="17.3090778" ry="18.019802"></ellipse>
+                                        <ellipse id="Oval-3" cx="17.7529003" cy="18.4818482" rx="12.4270302" ry="12.9372937"></ellipse>
+                                    </g>
+                                    <g id="face" transform="translate(9.764095, 0.000000)">
+                                        <ellipse id="Oval" stroke="#000000" stroke-width="3" fill="#7B422F" cx="58.1407485" cy="60.5280528" rx="58.1407485" ry="60.5280528"></ellipse>
+                                        <g id="eyes" transform="translate(28.404641, 36.039604)">
+                                            <ellipse id="Oval-2" stroke="#000000" stroke-width="3" fill="#FFFFFF" cx="15.0899653" cy="15.709571" rx="15.0899653" ry="15.709571"></ellipse>
+                                            <ellipse id="Oval-2-Copy" stroke="#000000" stroke-width="3" fill="#FFFFFF" cx="48.8204759" cy="15.709571" rx="15.0899653" ry="15.709571"></ellipse>
+                                            <ellipse id="Oval-2-Copy" fill="#000000" cx="44.3822508" cy="17.5577558" rx="6.21351511" ry="6.46864686"></ellipse>
+                                            <ellipse id="Oval-2-Copy-2" fill="#000000" cx="19.5281903" cy="18.4818482" rx="6.21351511" ry="6.46864686"></ellipse>
+                                        </g>
+                                        <ellipse id="Oval-4" fill="#000000" cx="60.3598611" cy="84.0924092" rx="7.10116013" ry="7.39273927"></ellipse>
+                                        <ellipse id="Oval-4" fill="#FFFFFF" cx="61.2475061" cy="80.3960396" rx="3.55058006" ry="1.84818482"></ellipse>
+                                    </g>
+                                </g>
+                                <rect id="Rectangle-3" fill="#BABABA" fill-rule="nonzero" x="0" y="240.264026" width="310" height="39.7359736"></rect>
+                                <g id="drum" transform="translate(93.202727, 142.310231)">
+                                    <ellipse id="Oval-5-Copy" stroke="#000000" stroke-width="3" fill="#D78469" fill-rule="nonzero" cx="65.6857312" cy="100.264026" rx="64.7980862" ry="24.4884488"></ellipse>
+                                    <ellipse id="Oval-5-Copy" stroke="#000000" stroke-width="3" fill="#B54D4D" fill-rule="nonzero" cx="65.6857312" cy="91.0231023" rx="64.7980862" ry="24.4884488"></ellipse>
+                                    <g id="Rectangle" transform="translate(0.887645, 24.950495)">
+                                        <g id="path-1-Clipped">
+                                            <mask id="mask-2" fill="white">
+                                                <use xlink:href="#path-1"></use>
+                                            </mask>
+                                            <g id="path-1"></g>
+                                            <rect id="path-1" stroke="#B54D4D" stroke-width="6" fill="#B54D4D" fill-rule="nonzero" mask="url(#mask-2)" x="0" y="0" width="129.596172" height="64.6864686"></rect>
+                                        </g>
+                                    </g>
+                                    <g id="Group" transform="translate(0.000000, 16.633663)" fill-rule="nonzero" fill="#C8927F">
+                                        <polygon id="Triangle" transform="translate(20.859658, 53.597360) scale(-1, 1) rotate(-180.000000) translate(-20.859658, -53.597360) " points="20.8596579 16.6336634 32.8428656 90.5610561 8.87645016 90.5610561"></polygon>
+                                        <polygon id="Triangle-Copy-4" transform="translate(6.213515, 42.508251) scale(-1, 1) rotate(-180.000000) translate(-6.213515, -42.508251) " points="6.21351511 5.54455446 12.4270302 79.4719472 -4.4408921e-15 79.4719472"></polygon>
+                                        <polygon id="Triangle-Copy-5" transform="translate(126.933237, 36.963696) scale(-1, 1) rotate(-180.000000) translate(-126.933237, -36.963696) " points="126.933237 -7.10542736e-14 132.259107 73.9273927 121.607367 73.9273927"></polygon>
+                                        <polygon id="Triangle-Copy-2" transform="translate(48.376653, 60.066007) scale(-1, 1) rotate(-180.000000) translate(-48.376653, -60.066007) " points="48.3766534 23.1023102 67.4610212 97.029703 29.2922855 97.029703"></polygon>
+                                        <polygon id="Triangle-Copy-3" transform="translate(85.657744, 60.066007) scale(-1, 1) rotate(-180.000000) translate(-85.657744, -60.066007) " points="85.657744 23.1023102 104.742112 97.029703 66.5733762 97.029703"></polygon>
+                                        <polygon id="Triangle-Copy" transform="translate(113.174740, 50.825083) scale(-1, 1) rotate(-180.000000) translate(-113.174740, -50.825083) " points="113.17474 13.8613861 125.157947 87.7887789 101.191532 87.7887789"></polygon>
+                                    </g>
+                                    <ellipse id="Oval-5" stroke="#000000" stroke-width="3" fill="#D78469" fill-rule="nonzero" cx="65.6857312" cy="33.7293729" rx="64.7980862" ry="24.4884488"></ellipse>
+                                    <ellipse id="Oval-5" stroke="#000000" stroke-width="3" fill="#B54D4D" fill-rule="nonzero" cx="65.6857312" cy="24.4884488" rx="64.7980862" ry="24.4884488"></ellipse>
+                                </g>
+                                <g id="Rectangle-2" transform="translate(118.763997, 145.412663) rotate(21.000000) translate(-118.763997, -145.412663) translate(87.763997, 140.412663)">
+                                    <g id="path-3-Clipped" transform="translate(-0.000000, 0.000000)">
+                                        <mask id="mask-4" fill="white">
+                                            <use xlink:href="#path-3"></use>
+                                        </mask>
+                                        <g id="path-3"></g>
+                                        <rect id="path-3" stroke="#000000" stroke-width="6" fill="#F9C6B6" fill-rule="nonzero" mask="url(#mask-4)" x="0.444146055" y="0.0291976238" width="61.2475061" height="9.24092409" rx="4.62046205"></rect>
+                                    </g>
+                                </g>
+                                <ellipse id="Oval-14" stroke="#979797" fill="#D8D8D8" fill-rule="nonzero" cx="221.023609" cy="151.551155" rx="1.77529003" ry="1.84818482"></ellipse>
+                                <ellipse id="Oval-6" stroke="#000000" stroke-width="3" fill="#7B422F" fill-rule="nonzero" cx="94.5341942" cy="131.683168" rx="19.0843678" ry="19.8679868"></ellipse>
+                                <g id="Rectangle-2" transform="translate(193.687695, 161.122234) scale(-1, 1) rotate(21.000000) translate(-193.687695, -161.122234) translate(162.687695, 156.122234)">
+                                    <g id="path-5-Clipped" transform="translate(-0.000000, -0.000000)">
+                                        <mask id="mask-6" fill="white">
+                                            <use xlink:href="#path-5"></use>
+                                        </mask>
+                                        <g id="path-5"></g>
+                                        <rect id="path-5" stroke="#000000" stroke-width="6" fill="#FAC7B6" fill-rule="nonzero" mask="url(#mask-6)" x="0.444145611" y="0.0291976238" width="61.2475061" height="9.24092409" rx="4.62046205"></rect>
+                                    </g>
+                                </g>
+                                <ellipse id="Oval-6-Copy" stroke="#000000" stroke-width="3" fill="#7B422F" fill-rule="nonzero" cx="215.253916" cy="151.089109" rx="19.0843678" ry="19.8679868"></ellipse>
+                                <ellipse id="Oval-7" stroke="#000000" stroke-width="3" fill="#7B422F" fill-rule="nonzero" cx="91.8712591" cy="251.815182" rx="21.7473029" ry="22.640264"></ellipse>
+                                <ellipse id="Oval-7-Copy" stroke="#000000" stroke-width="3" fill="#7B422F" fill-rule="nonzero" cx="217.916851" cy="251.815182" rx="21.7473029" ry="22.640264"></ellipse>
+                                <g id="Group-2" transform="translate(46.655833, 93.397373) rotate(-22.000000) translate(-46.655833, -93.397373) translate(13.155833, 62.397373)" stroke="#000000" stroke-width="3">
+                                    <path d="M66.5733762,1.18570993 C66.5733762,1.18570993 1.64556186e-12,-13.5997686 1.64135372e-12,61.2517165" id="Path-2"></path>
+                                    <path d="M66.5005455,20.2109262 C66.5005455,20.2109262 21.3034804,10.172976 21.3034804,60.990099" id="Path-2-Copy"></path>
+                                    <path d="M66.291354,35.6163914 C66.291354,35.6163914 38.1687357,29.3705557 38.1687357,60.990099" id="Path-2-Copy-2"></path>
+                                </g>
+                                <g id="Group-2-Copy" transform="translate(266.111619, 89.442896) scale(-1, 1) rotate(-22.000000) translate(-266.111619, -89.442896) translate(232.111619, 57.942896)" stroke="#000000" stroke-width="3">
+                                    <path d="M67.5590733,2.16305608 C67.5590733,2.16305608 0.985697079,-12.6224225 0.985697079,62.2290627" id="Path-2"></path>
+                                    <path d="M67.4862426,21.1882723 C67.4862426,21.1882723 22.2891775,11.1503221 22.2891775,61.9674452" id="Path-2-Copy"></path>
+                                    <path d="M67.2770511,36.5937376 C67.2770511,36.5937376 39.1544328,30.3479019 39.1544328,61.9674452" id="Path-2-Copy-2"></path>
+                                </g>
+                                <ellipse id="Oval-15" stroke="#979797" fill="#D8D8D8" fill-rule="nonzero" transform="translate(25.564779, 127.103964) scale(-1, 1) translate(-25.564779, -127.103964) " cx="25.5086018" cy="127.06601" rx="0.443822508" ry="0.462046205"></ellipse>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <rect id="Rectangle-14" fill="#000000" opacity="0.650022645" x="0" y="0" width="310" height="280"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
