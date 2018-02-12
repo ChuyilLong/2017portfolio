@@ -1855,13 +1855,135 @@ header h3:hover{
 	padding-top: 70px;
 	padding-bottom: 70px;
 }
-
-
-
-
-
-
-
-
+.code-party{
+	background-color: #000;
+	float: left;
+	width: 100%;
+}
 
 /*party*/
+.header-weekend{
+	background-color: #C4731B;
+	width: 100%;
+	float: left;
+	height: 50px;
+	z-index: 2;
+	position: absolute;
+}
+
+.weekend-project{
+	float: left;
+	width: 100%;
+	font-family: helvetica;
+	text-align: center;
+}
+.weekend-dis{
+	padding-bottom: 70px;
+}
+.weekend-project h3{
+	color: #000;
+	font-size: 20px;
+	font-weight: normal;
+}
+.weekend-dis-img {
+    float: left;
+    width: 100%;
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+.weekend-dis-img h2{
+	float: right;
+	font-size: 40px;
+	width: 500px;
+	text-align: left;
+}
+.weekend-img{
+	width: 700px;
+	margin: 0 auto;
+}
+.weekend-dis img{
+	float: left;
+}
+.weekend-dis p{
+	font-weight: lighter;
+	width: 770px;
+	margin: 0 auto;
+	text-align: left;
+	line-height: 1.5;
+	font-size: 18px;
+}
+.weekend-aest{
+	float: left;
+	width: 100%;
+	background-color:#FAF3EA;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.weekend-aest h2{
+	color: #C4731B;
+}
+.weekend-aest p{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.weekend-aestimg{
+	width: 840px;
+	margin: 0 auto;
+}
+.weekend-aestimg img{
+	width: 400px;
+	float: left;
+	padding: 10px;
+}
+.weekend-function{
+	float: left;
+	padding-bottom: 70px;
+	padding-top: 70px;
+	width: 100%;
+	text-align: center;
+}
+.weekend-function h2{
+	color: #C4731B;
+	padding-bottom: 20px;
+}
+.weekend-func{
+	float: left;
+	width: 100%;
+}
+.weekend-func-con{
+	width: 600px;
+	margin:0 auto;
+}
+.weekend-func-con p{
+	float: left;
+	width: 150px;
+	text-align: left;
+	line-height: 1.9;
+}
+.weekend-func-con img{
+	float: left;
+	width: 450px;
+}
+.weekend-narra{
+	float: left;
+	width: 100%;
+	background-color:#FAF3EA;
+	padding-bottom: 70px;
+	padding-top: 70px;
+}
+.weekend-narra h2{
+	color: #C4731B;
+}
+.code-weekend{
+	background-color: #C4731B;
+	float: left;
+	width: 100%;
+}
+.weekend-watch{
+	padding-bottom: 70px;
+	padding-top: 70px;
+	float: left;
+	width: 100%;
+}
+
+/*weekend*/
