@@ -45,7 +45,7 @@
 				<h2>I am an UX/UI student in Philadelphia University. I believe the essence of design is to improve the quaility of people's life, and each design is born to solve an existing problem.</h2>
 			</div>
 			<div class="resume">
-				<a href="resume/Resume-chuyilong.pdf">
+				<a href="resume/ChuyiLongResume.pdf">
 					<h3>RESUME</h3>
 				</a>
 			</div>
@@ -124,8 +124,9 @@
 				</div>
 		</div>
 	</div>
-		<!-- <div class="contact">
+		<div class="contact">
 			<div id="contact-id">
+				<form name="contactform" method="post" action="send_form_email.php">
 				<div class="head-c">
 					<h2>CONTACT</h2>
 				</div>
@@ -134,27 +135,49 @@
 				</div>
 				<div class="contact-right">
 					<div class="name">
-						<h4>NAME</h4>
-						<input type="" name="">
+						<tr>
+							 <td valign="top">
+								  <label for="name">NAME</label>
+									 </td>
+									 <td valign="top">
+								  <input  type="text" name="name" maxlength="50" size="30">
+							 </td>
+						</tr>
 					</div>
 					<div class="email">
-						<h4>EMAIL</h4>
-						<input type="" name="">
+						<tr>
+							<td valign="top">
+								<label for="email">EMAIL</label>
+									</td>
+									<td valign="top">
+								<input  type="text" name="email" maxlength="80" size="30">
+							</td>
+						</tr>
 					</div>
 				</div>
 				<div class="drop">
 					<div class="drop-container">
 						<div class="drop-border">
-							<h4>DROP ME A LINE</h4>
-							<textarea></textarea>
+							<tr>
+								<td valign="top">
+									<label for="comments">DROP ME A LINE</label>
+								</td>
+								<td valign="top">
+									<textarea  name="comments" maxlength="1000" cols="25" rows="6"></textarea>
+								</td>
+								</tr>
 						</div>
 						
 					</div>
 				</div>
 				<div class="send">
-					<a href="#">
-						<h3>SEND ME A MESSAGE</h3>
-					</a>
+					<div class="send-con">
+						<tr>
+							 <td colspan="2" style="text-align:center">
+							  <input type="submit" value="SEND ME A MESSAGE">  
+							 </td>
+						</tr>
+					</div>
 				</div>
 				<div class="information">
 					<div class="info-con">
@@ -176,7 +199,7 @@
 						</a>
 					</div>
 				</div>
-			</div>	 -->
+			</div>	
 		</div>
 	</div>
 	<div class="code">

@@ -477,6 +477,26 @@ header h3:hover{
     margin-right: 15%;
     margin-top: 10px;
 }
+.contact-right label{
+	float: left;
+    width: 20%;
+    margin: 0;
+    margin-top: 8px;
+    font-weight: lighter;
+    font-family: helvetica;
+    color: #AF7676;
+    font-size: 16px;
+}
+.drop label{
+	float: left;
+    width: 20%;
+    margin: 0;
+    margin-top: 8px;
+    font-weight: lighter;
+    font-family: helvetica;
+    color: #AF7676;
+    font-size: 16px;
+}
 .contact-right h4 {
     float: left;
     width: 20%;
@@ -549,11 +569,15 @@ header h3:hover{
     margin-top: 60px;
     margin-bottom: 60px;
 }
-.send h3{
-	text-align: center;
+.send-con{
 	width: 180px;
 	float: none;
 	margin: 0 auto;
+}
+.send input{
+	text-align: center;
+	width: 100%;
+	float: left;
 	color: #AF7676;
 	font-family: helvetica;
 	font-size: 16px;
@@ -563,7 +587,7 @@ header h3:hover{
 	font-weight: lighter;
 
 }
-.send h3:hover{
+.send input:hover{
 	color: #fff;
 	background-color: #AF7676;
 }
@@ -1351,6 +1375,7 @@ header h3:hover{
 .star-wireframe a:hover{
 	text-decoration: underline;
 }
+.
 .code-star{
 	float: left;
 	width: 100%;
@@ -1361,7 +1386,60 @@ header h3:hover{
 	width: 100%;
 	text-align: center;
 	padding-top: 70px;
-    padding-bottom: 30px;
+    padding-bottom: 70px;
+}
+.star-w-c{
+	width: 600px;
+	margin: 0 auto;
+}
+.star-w-c img{
+	width: 178px;
+	float: left;
+}
+.star-w-c h2{
+	float: right;
+	width: 400px;
+	padding-top: 40px;
+	font-size: 35px;
+}
+.star-test{
+	float: left;
+	width: 100%;
+	padding-top: 70px;
+	padding-bottom: 70px;
+
+}
+.star-test h2{
+	padding-bottom: 20px;
+}
+
+.star-tests{
+	width: 900px;
+	margin: 0 auto;
+}
+
+.star-test p {
+    text-align: left;
+    float: left;
+    width: 100%;
+}
+.star-test h5{
+	text-align: right;
+	float: left;
+	width: 100%;
+	color: #000;
+}
+.star-next{
+	float: left;
+	width: 100%;
+	background-color: #FBEEEF;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.star-n-c{
+	width: 310px;
+	text-align: left;
+	margin: 0 auto;
 }
 /*star*/
 
@@ -1974,6 +2052,30 @@ header h3:hover{
 .weekend-narra h2{
 	color: #C4731B;
 }
+<<<<<<< Updated upstream
+=======
+.weekend-code{
+	float: left;
+	width: 100%;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.weekend-code h2{
+	color: #C4731B;
+}
+.weekend-code a {
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+    padding-top: 20px;
+    float: left;
+    text-align: center;
+    width: 100%;
+}
+.weekend-code a:hover{
+	text-decoration: underline;
+}
+>>>>>>> Stashed changes
 .code-weekend{
 	background-color: #C4731B;
 	float: left;
@@ -1984,6 +2086,10 @@ header h3:hover{
 	padding-top: 70px;
 	float: left;
 	width: 100%;
+<<<<<<< Updated upstream
+=======
+	background-color: #FAF3EA;
+>>>>>>> Stashed changes
 }
 
 /*weekend*/
