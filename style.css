@@ -127,7 +127,7 @@ header h3:hover{
 	float: right;
 	width: 50%;
 	margin-right: 5%;
-	margin-top: 240px;
+	margin-top: 210px;
 	color: #AF7676;
 
 }
@@ -136,12 +136,13 @@ header h3:hover{
 	font-size: 18px;
 	font-weight: lighter;
 	font-family: helvetica;
+	line-height: 1.5;
 }
 .resume {
     width: 100%;
     float: left;
-    margin-top: 40px;
-    margin-bottom: 70px;
+    margin-top: 60px;
+    margin-bottom: 90px;
 }
 .resume h3{
 	text-align: center;
@@ -167,7 +168,7 @@ header h3:hover{
 	float: left;
 	width: 100%;
 	border-top: solid 1px #AF7676;
-	margin-bottom: 50px;
+	margin-bottom: 70px;
 }
 .work-id{
 	float: left;
@@ -175,8 +176,8 @@ header h3:hover{
 .head-w {
     float: left;
     width: 100%;
-    margin-top: 40px;
-    margin-bottom: 20px;
+    margin-top: 60px;
+    margin-bottom: 40px;
 }
 
 .head-w h2{
@@ -191,49 +192,55 @@ header h3:hover{
 	float: left;
 	width: 310px;
 	height: 280px;
-	background-image: url(images/beer.svg);
+	background-image: url(images/F-1.jpg);
 	box-shadow: 2px 2px 4px #CCCCCC;
 	margin: 15px;
+	background-size: cover;
 }
 .animal{
 	float: left;
 	width: 310px;
 	height: 280px;
-	background-image: url(images/star.svg);
+	background-image: url(images/B-1.jpg);
 	box-shadow: 2px 2px 4px #CCCCCC;
 	margin: 15px;
+	background-size: cover;
 }
 .datavis{
 	float: left;
 	width: 310px;
 	height: 280px;
-	background-image: url(images/datavisual.svg);
+	background-image: url(images/C-1.jpg);
 	box-shadow: 2px 2px 4px #CCCCCC;
 	margin: 15px;
+	background-size: cover;
 }
 .reminder{
 	float: left;
 	width: 310px;
 	height: 280px;
-	background-image: url(images/Reminder-h.svg);
+	background-image: url(images/A-1.jpg);
 	box-shadow: 2px 2px 4px #CCCCCC;
 	margin: 15px;
+	background-size: cover;
 }
 .weekend{
 	float: left;
 	width: 310px;
 	height: 280px;
-	background-image: url(images/weekend.svg);
+	background-image: url(images/E-1.jpg);
 	box-shadow: 2px 2px 4px #CCCCCC;
 	margin: 15px;
+	background-size: cover;
 }
 .partyup{
 	float: left;
 	width: 310px;
 	height: 280px;
-	background-image: url(images/partyup.svg);
+	background-image: url(images/D-1.jpg);
 	box-shadow: 2px 2px 4px #CCCCCC;
 	margin: 15px;
+	background-size: cover;
 }
 .work h3{
 	float: left;
@@ -302,8 +309,9 @@ header h3:hover{
 	display: block;
 }
 .beer:hover{
-	background: url(images/beer-b.svg);
+	background: url(images/F-3.jpg);
 	box-shadow: none;
+	background-size: cover;
 }   /*beerhover*/
 .animal:hover.animal h3{
 	display: none;
@@ -318,13 +326,11 @@ header h3:hover{
 	display: block;
 }
 .animal:hover{
-	background: url(images/star-b.svg);
+	background: url(images/B-3.jpg);
 	box-shadow: none;
+	background-size: cover;
 }
-.datavis h3{
-	margin-left: 50px;
-    margin-top: 140px;
-}
+
 .datavis:hover.datavis h3{
 	display: none;
 }
@@ -338,8 +344,9 @@ header h3:hover{
 	display: block;
 }
 .datavis:hover{
-	background: url(images/datavisual-b.svg);
+	background: url(images/C-3.jpg);
 	box-shadow: none;
+	background-size: cover;
 }  
 .reminder:hover.reminder h3{
 	display: none;
@@ -354,8 +361,9 @@ header h3:hover{
 	display: block;
 }
 .reminder:hover{
-	background: url(images/reminder-h-b.svg);
+	background: url(images/A-3.jpg);
 	box-shadow: none;
+	background-size: cover;
 }   /*reminderhover*/
 .weekend:hover.weekend h3{
 	display: none;
@@ -370,8 +378,9 @@ header h3:hover{
 	display: block;
 }
 .weekend:hover{
-	background: url(images/weekend-b.svg);
+	background: url(images/E-3.jpg);
 	box-shadow: none;
+	background-size: cover;
 }   /*weekendhover*/
 
 .partyup:hover.partyup h3{
@@ -387,8 +396,9 @@ header h3:hover{
 	display: block;
 }
 .partyup:hover{
-	background: url(images/partyup-b.svg);
+	background: url(images/D-3.jpg);
 	box-shadow: none;
+	background-size: cover;
 }   /*partyhover*/
 .about{
 	float: left;
@@ -445,8 +455,8 @@ header h3:hover{
 .head-c {
     float: left;
     width: 100%;
-    margin-top: 40px;
-    margin-bottom: 30px;
+    margin-top: 60px;
+    margin-bottom: 40px;
 }
 
 .head-c h2{
@@ -542,6 +552,8 @@ header h3:hover{
     border-bottom: solid 2px#AF7676;
     float: left;
     width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 .drop textarea {
     float: right;
@@ -600,6 +612,7 @@ header h3:hover{
 	font-size: 16px;
 	font-weight: lighter;
 	font-family: helvetica;
+	margin-top: 20px;
 
 }
 .information a{
@@ -620,8 +633,8 @@ header h3:hover{
 	font-size: 16px;
 	font-weight: lighter;
 	font-family: helvetica;
-	margin-top: 50px;
-	margin-bottom: 50px;
+	margin-top: 70px;
+	margin-bottom: 70px;
 
 }
 .social a{
@@ -898,19 +911,11 @@ header h3:hover{
 	z-index: 2;
 	position: absolute;
 }
-
-.traffic-project{
-	float: left;
-	width: 100%;
-	font-family: helvetica;
-	color: #323232;
-
-}
 .traffic-project h2{
 	color: #FFCC33;
 	font-size: 20px;
 	text-align: center;
-	padding-bottom: 40px;
+	padding-bottom: 20px;
 }
 .traffic-project h3{
 	color: #FFF;
@@ -922,65 +927,59 @@ header h3:hover{
 	font-size: 18px;
 	font-weight: normal;
 }
+.traffic-project{
+	float: left;
+	width: 100%;
+	font-family: helvetica;
+	color: #323232;
+
+}
+
 
 .code-traffic{
 	background-color: #464646;
 	float: left;
 	width: 100%;
+
 }
 .traffic-h{
-	float: left;
-	width: 100%;
-	background-color: #323232;
+    background: url(images/C-2.jpg) no-repeat center center;
+    float: left;
+    background-size: cover;
+    width: 100%;
+    position: relative;
+    height:730px;
+}
+.traffic-h h1{
+	color: #FFCC33;
+	font-size: 60px;
 	text-align: center;
-	padding-top: 40px;
-	padding-bottom: 40px;
-	z-index: 1;
+	margin-top: 470px;
 }
-.traffic-datasetuse{
-	float: left;
-	width: 100%;
-	background-color: #464646;
-	padding-top: 70px;
-	padding-bottom: 70px;
-}
-.traffic-datasetuse-con{
-	width: 600px;
+.traffic-h-con{
+	width: 900px;
 	margin: 0 auto;
 }
-.traffic-data-interview{
+.traffic-h-con-1{
 	float: left;
-	width: 100%;
-	background-color: #323232;
-	padding-top: 70px;
-	padding-bottom: 70px;
+	width: 300px;
+}
+.traffic-h-con-1 img{
+	float: left;
+	width: 40px;
 }
 
-.traffic-data-interview h3{
-    margin: 0 auto;
-    width: 800px;
-    margin-bottom: 20px;
+
+.traffic-h h4 {
+    float: left;
+    color: #fff;
+    font-size: 20px;
+    margin-top: 11px;
     text-align: center;
+    padding-left: 20px;
 }
-.traffic-data-interview-imgcon{
-	width: 700px;
-	height: 400px;
-	margin: 0 auto;
-	
-}
-.traffic-data-interview h2{
-	padding-bottom: 0px;
-}
-.traffic-data-interview img{
-	width: 100%;
-	height: 400px;
-	float: left;
-}
-.traffic-data-interview h4{
-	text-align: center;
-	margin-top: 10px;
-	float: left;
-}
+
+
 .traffic-data-interview a{
 	text-decoration: none;
 	color: #C7C7C7;
@@ -989,13 +988,7 @@ header h3:hover{
 .traffic-data-interview a:hover{
 	text-decoration: underline;
 }
-.traffic-interview{
-	float: left;
-	width: 100%;
-	background-color: #464646;
-	padding-top: 70px;
-	padding-bottom: 70px;
-}
+
 .traffic-interview h2{
 	margin-bottom: 0px;
 }
@@ -1004,8 +997,8 @@ header h3:hover{
     font-size: 18px;
     color: #FFF;
     font-weight: lighter;
-    width: 700px;
-    margin: 0 auto;
+    width: 100%;
+    float: left;
     line-height: 30px;
 }
 .traffic-affinity{
@@ -1161,6 +1154,156 @@ header h3:hover{
 .traffic-thanks h2{
 	padding-bottom: 0;
 }
+
+.traffic-intro{
+	float: left;
+	width: 100%;
+	background-color: #323232;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.traffic-data{
+	width: 1000px;
+	margin: 0 auto;
+}
+.traffic-datasetuse{
+	float: left;
+	width: 40%;
+}
+.traffic-datasetuse h2{
+	float: left;
+	color: #fff;
+}
+.traffic-datasetuse img{
+	float: left;
+	margin-right: 20px;
+}
+.traffic-user-con{
+	float: right;
+	width: 40%;
+}
+.traffic-user{
+	float: left;
+	width: 100%;
+}
+.traffic-user h2{
+	float: left;
+	color: #fff;
+}
+.traffic-user span{
+	float: left;
+	color: #fff;
+}
+.traffic-user img{
+	float: left;
+	margin-right: 20px;
+	margin-top: 10px;
+}
+.traffic-user-con span{
+	color: #fff;
+	font-weight: bold;
+}
+.traffic-inter-con{
+	float: left;
+	width: 100%;
+	background-color: #464646;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.traffic-inter{
+	width: 1120px;
+	margin: 0 auto;
+}
+.traffic-inter h3{
+	font-weight: lighter;
+}
+
+.traffic-data-interview{
+	float: left;
+	width: 45%;
+}
+
+.traffic-data-interview img{
+	float: left;
+	width: 100%;
+	height: 310px;
+}
+.traffic-data-interview a {
+    text-decoration: none;
+    color: #C7C7C7;
+    margin-top: 20px;
+	margin: 0 auto;
+	float: left;
+	margin-top: 20px;
+}
+.traffic-interview{
+	float: left;
+	width: 55%;
+}
+.traffic-interview h3 {
+    width: 90%;
+    float: left;
+    margin-left: 10%;
+    margin-bottom: 0;
+    font-weight: bold;
+}
+.traffic-interview p {
+    color: #FFF;
+    font-size: 18px;
+    color: #FFF;
+    font-weight: lighter;
+    width: 90%;
+    float: left;
+    line-height: 30px;
+    margin-left: 10%;
+}
+.traffic-findingsummary h4 {
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+.traffic-findingsummary h3{
+	font-weight: bold;
+}
+.traffic-findingsummary h2{
+	padding-bottom: 20px;
+}
+.traffic-res-con{
+	width: 100%;
+	float: left;
+}
+.traffic-res{
+	width: 150px;
+	margin: 0 auto;
+}
+
+.traffic-res img{
+	width: 30px;
+	float: left;
+}
+.traffic-res h4 {
+    width: 100px;
+    float: left;
+    text-align: center;
+    padding: 0;
+    margin-top: 4px;
+}
+.traffic-ress{
+	width: 180px;
+	margin: 0 auto;
+}
+.traffic-ress img{
+	width: 30px;
+	float: left;
+}
+
+.traffic-ress h4 {
+    width: 130px;
+    float: left;
+    text-align: center;
+    padding: 0;
+    margin-top: 4px;
+}
 /*traffic*/
 .header-animal{
 	background-color: #C41B2C;
@@ -1201,11 +1344,23 @@ header h3:hover{
 	width: 660px;
 }
 .star-discription{
-	padding-top: 30px;
-	padding-bottom: 90px;
+	background: url(images/B-2.jpg) no-repeat center center;
+    float: left;
+    background-size: cover;
+    width: 100%;
+    position: relative;
+    height: 630px;
 }
+.star-dis {
+    float: right;
+    width: 40%;
+    text-align: left;
+    margin-right: 10%;
+    margin-top: 60px;
+}
+
 .star-discription h4{
-	color: #c41B2C;
+	
 	font-size: 20px;
 	font-weight: normal;
 	float: left;
@@ -1224,6 +1379,7 @@ header h3:hover{
 	font-size: 20px;
 	font-weight: lighter;
 	color: #000;
+	line-height: 1.5;
 }
 .star-discription a{
 	text-decoration: none;
@@ -1249,6 +1405,13 @@ header h3:hover{
 .star-persona h2{
 	padding-bottom: 20px;
 }
+.star-persona p {
+    text-align: left;
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 20px;
+    line-height: 1.5;
+}
 .star-persona img{
 	width: 800px;
 }
@@ -1267,36 +1430,27 @@ header h3:hover{
 	width: 900px;
 }
 .star-problem{
+	width: 960px;
+    margin: 0 auto;
+}
+.star-j-1{
+	width: 300px;
+	padding: 10px;
 	float: left;
-	width: 100%;
-	text-align: center; 
-	padding-top: 70px;
-	padding-bottom: 70px;
 }
-.star-problem h2{
-	padding-bottom: 10px;
+.star-j-2{
+	width: 300px;
+	padding: 10px;
+	float: left;
 }
-.star-problem p{
-	width: 548px;
-	margin:0 auto;
-	text-align: left;
-	line-height: 40px;
-}
-.star-p-u{
-	width: 548px;
-	margin:0 auto;
-	text-align: left;
-	text-decoration: underline;
+.star-j-3{
+	width: 300px;
+	padding: 10px;
+	float: left;
 }
 
-.star-allcontent{
-	float: left;
-	width: 100%;
-	text-align: center; 
-	padding-top: 70px;
-	padding-bottom: 70px;
-	background-color: #FBEEEF;
-}
+
+
 .star-allcontent h2{
 	padding-bottom: 20px;
 }
@@ -1344,6 +1498,7 @@ header h3:hover{
 	text-align: center; 
 	padding-top: 70px;
 	padding-bottom: 70px;
+	background-color: #FBEEEF;
 }
 .star-flow-2{
 	float: left;
@@ -1351,7 +1506,7 @@ header h3:hover{
 	text-align: center; 
 	padding-top: 70px;
 	padding-bottom: 70px;
-	background-color: #FBEEEF;
+	
 }
 .star-featuremap{
 	float: left;
@@ -1359,6 +1514,7 @@ header h3:hover{
 	text-align: center; 
 	padding-top: 70px;
 	padding-bottom: 70px;
+	background-color: #FBEEEF;
 }
 .star-wireframe{
 	float: left;
@@ -1366,7 +1522,6 @@ header h3:hover{
 	text-align: center; 
 	padding-top: 70px;
 	padding-bottom: 70px;
-	background-color: #FBEEEF;
 }
 .star-wireframe a{
 	color: 000;
@@ -1407,6 +1562,7 @@ header h3:hover{
 	width: 100%;
 	padding-top: 70px;
 	padding-bottom: 70px;
+	background-color: #FBEEEF;
 
 }
 .star-test h2{
@@ -1440,6 +1596,126 @@ header h3:hover{
 	width: 310px;
 	text-align: left;
 	margin: 0 auto;
+}
+.star-dis h1{
+	color: #c41B2C;
+}
+.star-dis h3{
+	color: #FFF;
+}
+.star-dis p{
+    font-size: 20px;
+    font-weight: lighter;
+    color: #fff;
+    text-shadow: #000 2px 2px 2px;
+    margin-top: 60px;
+}
+.star-dis h5{
+	margin-bottom: 50px;
+}
+.star-problem h1{
+	float: left;
+	width: 15%;
+	color: #c41B2C;
+}
+.star-problem p{
+	float: left;
+	width: 100%;
+	text-align: left;
+}
+.star-problem h3{
+	float: left;
+	width: 85%;
+	text-align: left;
+	color: #000;
+}
+.star-j-1 h1{
+	font-size: 60px;
+    margin-top: 8px;
+    margin-bottom: 0;
+}
+.star-content{
+	float: left;
+	width: 100%;
+	text-align: center; 
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.star-content img{
+	float: left;
+	width: 100%;
+}
+
+.star-allcontent{
+	float: left;
+    width: 42%;
+    margin-left: 5%;
+}
+.star-arrow{
+	float: left;
+	width: 6%;
+}
+.star-arrow img{
+	margin-top: 200px;
+}
+.star-recontent{
+	float: left;
+    width: 42%;
+    margin-right: 5%;
+}
+.star-content p{
+	width: 1000px;
+	margin: 0 auto;
+	text-align: left;
+}
+.star-content span{
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.star-flow-1 p{
+	width: 1000px;
+	margin: 0 auto;
+	text-align: left;
+	margin-top: 20px;
+}
+.star-flow-2 p{
+	width: 1000px;
+	margin: 0 auto;
+	text-align: left;
+	margin-top: 20px;
+}
+.star-wire-con{
+	width: 1020px;
+	margin: 0 auto;
+}
+.star-wire-con h1{ 
+	width: 30px;
+	float: left;
+	text-align: left;
+	color: #c41B2C;
+}
+.star-wire-con p{ 
+	text-align: left;
+	width: 300px;
+}
+.star-wireframe img{
+	width: 100%;
+}
+.star-wire-1{
+	float: left;
+	width: 300px;
+	margin: 10px;
+}
+.star-wire-2{
+	float: left;
+	width: 300px;
+	margin: 10px;
+}
+.star-wire-3{
+	float: left;
+	width: 300px;
+	margin: 10px;
 }
 /*star*/
 
@@ -1773,16 +2049,24 @@ header h3:hover{
 	width: 100%;
 	padding-bottom: 70px;
 }
+.re-demo img{
+	width: 250px;
+}
 .re-demo h2{
 	padding-bottom: 20px;
 }
 .re-demo a{
 	color: #000;
 }
+.re-flow{
+	float: left;
+	width: 100%;
+	padding-bottom: 70px;
+	background-color:  #DEE8DF;
+}
 .re-tks{
 	float: left;
 	width: 100%;
-	background-color: #DEE8DF;
 	padding-bottom: 30px;
 }
 
@@ -1813,12 +2097,12 @@ header h3:hover{
 }
 
 .party-intro{
-	background:url(images/party-1.png) no-repeat center center;
+	background:url(images/party-1.svg) no-repeat center center;
 	float: left;
-    background-size: cover;
+    background-size: 100%;
     width: 100%;
     position: relative;
-    height: 630px;
+    height: 730px;
     color: #FFF;
 }
 .party-intro h1{
@@ -1836,6 +2120,7 @@ header h3:hover{
 .party-in{
 	width: 520px;
 	margin: 0 auto;
+	margin-top: 240px;
 }
 .party-in h3{
 	float: left;
