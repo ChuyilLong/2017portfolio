@@ -687,40 +687,18 @@ header h3:hover{
 }
 
 .beer-discription {
-    margin: 0 auto;
-    width: 1000px;
-    padding-top: 70px;
-    padding-bottom: 300px;
+    background: url(images/F-2.jpg) no-repeat center center;
+    float: left;
+    background-size: cover;
+    width: 100%;
+    position: relative;
+    height:730px;
+    z-index: -1;
 }
-.beer-dis-left{
-	float: left;
-	width: 35%;
-}
-.beer-dis-left img{
-	float: left;
-	width: 100%;
-	margin-top: 5px;
-}
-.beer-dis-right{
-	float: right;
-	width: 60%;
-	margin-left: 5%;
-	
-	text-align: left;
-
-}
-.beer-dis-right h2{
-	padding-bottom: 10px;
-    margin-top: 20px;
-}
-.beer-dis-right h3{
-	margin-top: 15px;
-	margin-right: 30px;
-}
-
 .beer-project h2{
 	font-size: 20px;
-	font-weight: lighter;
+	font-weight: bold;
+	text-align: center;
 
 }
 .beer-project p{
@@ -749,6 +727,7 @@ header h3:hover{
 	text-align: center;
     padding-top: 70px;
     padding-bottom: 70px;
+    background-color: #E9ECF0;
 }
 .beer-interview h2{
 	padding-bottom: 30px;
@@ -762,7 +741,6 @@ header h3:hover{
 }
 .beer-persona{
 	text-align: center;
-	background-color: #E9ECF0;
 	float: left;
 	width: 100%;
 	padding-top: 70px;
@@ -820,7 +798,6 @@ header h3:hover{
 	padding-bottom: 70px;
 	text-align: center;
 	float: left;
-	background-color: #E9ECF0;
 }
 .beer-wireframe img{
 	margin-top: 30px;
@@ -832,6 +809,7 @@ header h3:hover{
 	padding-bottom: 70px;
 	text-align: center;
 	float: left;
+	background-color: #E9ECF0;
 }
 .beer-moodboard img{
 	margin-top: 30px;
@@ -843,17 +821,14 @@ header h3:hover{
 	padding-bottom: 70px;
 	text-align: center;
 	float: left;
-	background-color: #E9ECF0;
 }
-.beer-branding img{
-	margin-top: 30px;
-	margin-bottom: 20px;
-}
+
 .beer-mockup{
 	float: left;
 	width: 100%;
 	padding-top: 70px;
     padding-bottom: 70px;
+    background-color: #E9ECF0;
 }
 .beer-mockup p{
 	margin-top: 40px;
@@ -878,7 +853,6 @@ header h3:hover{
 	float: left;
 	width: 100%;
 	text-align: center;
-	background-color:#E9ECF0;
 	padding-top: 70px;
     padding-bottom: 70px;
 }
@@ -898,10 +872,181 @@ header h3:hover{
 	text-align: center;
 	padding-top: 70px;
     padding-bottom: 70px;
+    background-color: #E9ECF0;
 }
 .beer-watch h2{
 	font-weight: normal;
 }
+
+.beer-discription h1{
+	text-align: center;
+	color: #fff;
+	font-size: 60px;
+	text-shadow: 8px 8px 8px #000;
+	width: 100%;
+	margin-top: 450px;
+}
+.beer-dis{
+	width: 900px;
+	margin: 0 auto;
+}
+.beer-dis h2{
+	float: left;
+	width: 180px;
+	text-align: center;
+	color: #fff;
+	font-size: 20px;
+	text-shadow: 3px 3px 3px #000;
+	font-weight: normal;
+}
+.beer-chall{
+	float: left;
+	width: 100%;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.beer-chall-con{
+	width: 800px;
+	margin: 0 auto;
+}
+.beer-chall-con-left{
+	float: left;
+	width: 100px;
+}
+.beer-chall-con-left img{
+	margin-top: 20px;
+}
+.beer-chall-con-right{
+	float: left;
+	width: 700px;
+}
+.beer-chall-con-right h3{
+	float: left;
+	width: 100%;
+	text-align: left;
+	margin-bottom: 0;
+}
+.beer-chall-con-right p{
+	float: left;
+	width: 100%;
+	text-align: left;
+}
+.beer-interview-con{
+	width: 800px;
+	margin: 0 auto
+}
+.beer-interview-l{
+	float: left;
+	width: 200px;
+}
+.beer-interview-l img{
+	float: left;
+	width: 100%;
+}
+.beer-interview-r{
+	float: left;
+	width: 600px;
+	margin-top: 7px;
+}
+.beer-interview-r h3{
+	float: left;
+	width: 90%;
+	text-align: left;
+	margin-left: 10%;
+	font-weight: normal;
+}
+.beer-interview-r p{
+	float: left;
+	width: 90%;
+	text-align: left;
+	margin-left: 10%;
+}
+.beer-persona h2{
+	margin-bottom: 40px;
+}
+
+.beer-need-con{
+	float: left;
+	width: 100%;
+	background-color: #E9ECF0;
+	padding-top: 70px;
+	padding-bottom: 70px;
+
+}
+
+.beer-need{
+	width: 960px;
+	margin: 0 auto;
+}
+.beer-need-item{
+	float: left;
+	width: 240px;
+	text-align: center;
+	margin-top: 60px;
+}
+.beer-need-item h3{
+	text-align: center;
+	width: 100%;
+}
+.beer-content p{
+	margin-top: 30px;
+}
+.beer-wire{
+	width: 900px;
+	margin: 0 auto;
+}
+
+.beer-wireframe p{
+	text-align: left;
+	width: 900px;
+	margin: 0 auto;
+	line-height: 1.5;
+	margin-top: 30px;
+}
+.beer-wireframe-l{
+	float: left;
+	width: 300px;
+}
+.beer-wireframe-r{
+	float: left;
+	width: 600px;
+	margin-top: 100px;
+}
+.beer-moodboard p{
+	margin: 0 auto;
+	margin-top: 30px;
+	width: 900px;
+	text-align: left;
+	line-height: 1.5;
+	
+}
+.beer-brand-con{
+	width: 900px;
+	margin: 0 auto;
+}
+.beer-brand-1{
+	float: left;
+	width: 100%;
+	margin-top: 10px;
+}
+.beer-brand-l{
+	float: left;
+	width: 200px;
+	text-align: left;
+}
+.beer-brand-r{
+	float: left;
+	width: 700px;
+	text-align: left;
+}
+.beer-brand-r img{
+	width: 100%;
+
+}
+
+
+
+
 /*silentshield*/
 .header-traffic{
 	background-color: #464646;
@@ -2241,7 +2386,12 @@ header h3:hover{
 	text-align: center;
 }
 .weekend-dis{
-	padding-bottom: 70px;
+	background: url(images/E-2.jpg) no-repeat center center;
+    float: left;
+    background-size: cover;
+    width: 100%;
+    position: relative;
+    height: 670px;
 }
 .weekend-project h3{
 	color: #000;
@@ -2249,31 +2399,54 @@ header h3:hover{
 	font-weight: normal;
 }
 .weekend-dis-img {
-    float: left;
-    width: 100%;
-    padding-top: 80px;
-    padding-bottom: 50px;
+	width: 800px;
+	margin: 0 auto;
 }
 .weekend-dis-img h2{
-	float: right;
-	font-size: 40px;
-	width: 500px;
-	text-align: left;
+	font-size: 66px;
+	color: #DBFFB6;
+	font-weight: bold;
+	text-align: center;
+	text-shadow: #000 8px 8px 7px;
+		margin-top: 90px;
 }
-.weekend-img{
-	width: 700px;
-	margin: 0 auto;
+.weekend-dis-img h1{
+	font-size: 66px;
+	color: #FFF;
+	font-weight: bold;
+	text-align: center;
+	text-shadow: #000 8px 8px 7px;
+
 }
 .weekend-dis img{
 	float: left;
+	width: 30%;
+	margin-left: 10%;
 }
+.weekend-dis h1{
+	float: left;
+	width: 60%;
+
+}
+
 .weekend-dis p{
 	font-weight: lighter;
-	width: 770px;
-	margin: 0 auto;
+	width:80%;
+	margin:0 auto;
 	text-align: left;
 	line-height: 1.5;
 	font-size: 18px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	color: #fff;
+}
+.weekend-dis-p{
+	width: 100%;
+	background-color:rgba(0, 0, 0, 0.5);
+	float: left;
+	border-radius: 45px;
+	margin-top: 60px;
+
 }
 .weekend-aest{
 	float: left;
@@ -2337,13 +2510,13 @@ header h3:hover{
 .weekend-narra h2{
 	color: #C4731B;
 }
-<<<<<<< Updated upstream
-=======
+
 .weekend-code{
 	float: left;
 	width: 100%;
 	padding-top: 70px;
 	padding-bottom: 70px;
+	background-color: #FAF3EA;
 }
 .weekend-code h2{
 	color: #C4731B;
@@ -2360,7 +2533,6 @@ header h3:hover{
 .weekend-code a:hover{
 	text-decoration: underline;
 }
->>>>>>> Stashed changes
 .code-weekend{
 	background-color: #C4731B;
 	float: left;
@@ -2371,10 +2543,7 @@ header h3:hover{
 	padding-top: 70px;
 	float: left;
 	width: 100%;
-<<<<<<< Updated upstream
-=======
-	background-color: #FAF3EA;
->>>>>>> Stashed changes
+	
 }
 
 /*weekend*/
