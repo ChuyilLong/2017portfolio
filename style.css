@@ -912,6 +912,7 @@ header h3:hover{
 .beer-chall-con-left{
 	float: left;
 	width: 100px;
+	text-align: center;
 }
 .beer-chall-con-left img{
 	margin-top: 20px;
